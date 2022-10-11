@@ -10,7 +10,9 @@ Dexy Themes For Plasma Desktop
 
 ![4](https://user-images.githubusercontent.com/45247573/195152721-415be6a1-3a49-4517-a7dc-b7bc5be5eb92.png)
 
-![5](https://user-images.githubusercontent.com/45247573/195152783-29bd56cf-bd70-49e6-8c24-0c25e3c220b4.png)
+![5](https://user-images.githubusercontent.com/45247573/195153860-b5fc4561-c575-48ce-b125-b696af247810.png)
+
+
 
 
 
