@@ -1,7 +1,8 @@
 # Dexy-Plasma-Themes
+
 Dexy Themes For Plasma Desktop
 
-![1](h![2](https://user-images.githubusercontent.com/45247573/195152437-20321d64-cfff-4aba-aa67-b309d853fe8e.png)
+![1](https://user-images.githubusercontent.com/45247573/195152945-b005a7f7-d460-4205-a101-009010a13cea.png)
 
 ![2](https://user-images.githubusercontent.com/45247573/195152562-9cecc1d9-5a2a-478e-9a8d-962784e32f9b.png)
 
