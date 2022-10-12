@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Dexy Dark Global Theme
+Name=Dexy-Global
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Dexy-Global
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1898599,kns://colorschemes.knsrc/api.kde-look.org/1898595,kns://plasma-themes.knsrc/api.kde-look.org/1898639,kns://icons.knsrc/api.kde-look.org/1898626,kns://icons.knsrc/api.kde-look.org/1898619,kns://aurorae.knsrc/api.kde-look.org/1873541,kns://aurorae.knsrc/api.kde-look.org/1873540,kns://wallpaper.knsrc/api.kde-look.org/1898566,kns://wallpaper.knsrc/api.kde-look.org/1898566,kns://sddmtheme.knsrc/api.kde-look.org/1898589
