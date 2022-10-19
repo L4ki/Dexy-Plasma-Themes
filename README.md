@@ -16,7 +16,13 @@ https://www.pling.com/p/1919156/
 ![5](https://user-images.githubusercontent.com/45247573/195153860-b5fc4561-c575-48ce-b125-b696af247810.png)
 
 
+Changelog: 19.10.2022.
+---------------------
 
+Plasma Theme
+------------
+
+Update widget: scrollbar.svg
 
 
 
