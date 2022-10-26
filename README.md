@@ -24,6 +24,15 @@ Plasma Theme
 
 Update widget: scrollbar.svg
 
+hangelog: 26.10.2022.
+---------------------
+
+Plasma Theme
+------------
+
+Update icon: list.svg
+
+
 
 
 
