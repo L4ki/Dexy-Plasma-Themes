@@ -32,6 +32,11 @@ Plasma Theme
 
 Update icon: list.svg
 
+GTK-Theme
+---------
+
+Update: checkbox-mixed-hover.png
+
 
 
 
