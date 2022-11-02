@@ -37,6 +37,19 @@ GTK-Theme
 
 Update: checkbox-mixed-hover.png
 
+Changelog: 02.11.2022.
+---------------------
+
+Plasma Theme
+------------
+
+Update widget: listitem.svg
+
+GTK-Theme
+---------
+
+Update: checkbox-mixed-insensitive.png
+
 
 
 
