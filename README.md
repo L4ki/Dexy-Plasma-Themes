@@ -50,6 +50,14 @@ GTK-Theme
 
 Update: checkbox-mixed-insensitive.png
 
+Changelog: 09.11.2022.
+---------------------
+
+Plasma Theme
+------------
+
+Update: background dialogs
+
 
 
 
