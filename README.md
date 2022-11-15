@@ -59,6 +59,14 @@ Plasma Theme
 Update: background dialogs
 
 
+Changelog: 16.11.2022.
+---------------------
+
+Plasma Theme
+------------
+
+Added icon: sirikali.svg
+
 
 
 
