@@ -67,6 +67,14 @@ Plasma Theme
 
 Added icon: sirikali.svg
 
+Changelog: 23.11.2022.
+---------------------
+
+Plasma Theme
+------------
+
+Update widget: tasks.svg
+
 
 
 
