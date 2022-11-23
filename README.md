@@ -75,6 +75,11 @@ Plasma Theme
 
 Update widget: tasks.svg
 
+GTK Theme
+----------
+
+Update: button-active.png
+
 
 
 
