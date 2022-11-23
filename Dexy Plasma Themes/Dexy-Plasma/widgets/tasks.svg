@@ -27,14 +27,14 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0000001"
-     inkscape:cx="416.99996"
-     inkscape:cy="257.99997"
+     inkscape:zoom="5.6568548"
+     inkscape:cx="506.11163"
+     inkscape:cy="404.0231"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1010"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -22183,50 +22183,6 @@
          id="path24378-9-2-6-2-3-7"
          d="m 428.00002,956.36219 h -1 v 39.99999 h 1 z"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient17859-59);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none" />
-    </g>
-    <g
-       id="progress-hint-left-margin"
-       transform="translate(0,24.000013)">
-      <rect
-         y="972.36218"
-         x="502"
-         height="5"
-         width="0.79998779"
-         id="focus-hint-left-margin-8"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.399997" />
-    </g>
-    <g
-       id="progress-hint-right-margin"
-       transform="matrix(0.05882326,0,0,1,526.88246,14.000007)">
-      <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.84391"
-         id="focus-hint-right-margin-6"
-         width="17"
-         height="5"
-         x="410"
-         y="982.36218" />
-    </g>
-    <g
-       id="progress-hint-top-margin"
-       transform="matrix(1,0,0,0.2,125,775.48975)">
-      <rect
-         y="949.36218"
-         x="400"
-         height="5"
-         width="5"
-         id="focus-hint-top-margin-8"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    </g>
-    <g
-       id="progress-hint-bottom-margin"
-       transform="matrix(1,0,0,0.2,130,814.68975)">
-      <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="focus-hint-bottom-margin-8"
-         width="5"
-         height="5"
-         x="395"
-         y="998.36218" />
     </g>
     <g
        id="hover-center-6-7"
