@@ -80,6 +80,20 @@ GTK Theme
 
 Update: button-active.png
 
+Changelog: 30.11.2022.
+---------------------
+
+Plasma Theme
+------------
+
+Added icon: mellowplayer.svg
+
+Update widget: tasks.svg
+
+Kvantum Theme
+--------------
+
+Update: Dexy-Kvantum.svg
 
 
 
