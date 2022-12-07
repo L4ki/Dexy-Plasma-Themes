@@ -95,6 +95,16 @@ Kvantum Theme
 
 Update: Dexy-Kvantum.svg
 
+Changelog: 07.12.2022.
+---------------------
+
+Plasma Theme
+------------
+
+Added icon: jami.svg
+
+
+
 
 
 
