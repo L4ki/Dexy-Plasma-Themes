@@ -103,6 +103,11 @@ Plasma Theme
 
 Added icon: jami.svg
 
+GTK Theme
+----------
+
+Update: menubar-item-active.png
+
 
 
 
