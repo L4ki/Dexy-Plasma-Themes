@@ -116,6 +116,14 @@ Plasma Theme
 
 Added icon: cadence.svg
 
+Changelog: 21.12.2022.
+---------------------
+
+Plasma Theme
+------------
+
+Added icon: internet.svg
+
 
 
 
