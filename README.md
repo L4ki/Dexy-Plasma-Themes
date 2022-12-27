@@ -5,6 +5,22 @@ Dexy Themes For Plasma Desktop
 https://www.pling.com/p/1919156/
 ---------------------------------
 
+<html>
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <h2>Donate</h2>
+    <h2>If you like my project, you can donate at:</h2>
+    <a href="https://www.paypal.com/paypalme/VesnaLazic">
+    <img src="PayPal.png" alt="PayPal" />
+    </a>
+  </body>
+</html>
+
+
+
+
 ![1](https://user-images.githubusercontent.com/45247573/195152945-b005a7f7-d460-4205-a101-009010a13cea.png)
 
 ![2](https://user-images.githubusercontent.com/45247573/195152562-9cecc1d9-5a2a-478e-9a8d-962784e32f9b.png)
