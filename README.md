@@ -2,6 +2,9 @@
 
 Dexy Themes For Plasma Desktop
 
+Dexy-Plasma
+-----------
+
 Download: https://www.pling.com/p/1919156/
 
 
