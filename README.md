@@ -44,6 +44,7 @@ Screenshots:
 ![4](https://user-images.githubusercontent.com/45247573/195152721-415be6a1-3a49-4517-a7dc-b7bc5be5eb92.png)
 
 ![5](https://user-images.githubusercontent.com/45247573/195153860-b5fc4561-c575-48ce-b125-b696af247810.png)
+______________________________________________________________________________________________________________
 
 
 Dexy-Color-Plasma
@@ -61,6 +62,8 @@ Screeshots:
 ![Screenshot_20221223_192322](https://user-images.githubusercontent.com/45247573/209803157-3b10bd50-47a1-41fd-99da-bfa3469a5f34.jpg)
 
 ![Screenshot_20221223_193142](https://user-images.githubusercontent.com/45247573/209803243-fc053caa-0fb8-4add-a7ec-0a368c2d40f6.jpg)
+
+______________________________________________________________________________________________________________________________________
 
 
 Changelog: 19.10.2022.
