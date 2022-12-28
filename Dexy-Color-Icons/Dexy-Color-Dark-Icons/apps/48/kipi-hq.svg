@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.0"
+   width="64"
+   height="64"
+   id="svg2383"
+   sodipodi:docname="kipi-hq.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview229"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24.101695"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2383" />
+  <defs
+     id="defs2385" />
+  <path
+     d="m 2.999993,10.25 c 0,-4.004175 3.24594,-7.25 7.25,-7.25 h 43.500014 c 4.00417,0 7.25,3.245825 7.25,7.25 v 43.5 c 0,4.004173 -3.24583,7.25 -7.25,7.25 H 10.249993 c -4.00406,0 -7.25,-3.245827 -7.25,-7.25 z"
+     id="path736"
+     style="fill:#606c86;fill-opacity:1;stroke-width:3.625" />
+  <path
+     d="M 2.999993,9.796875 C 2.999993,6.043188 6.245933,3 10.249993,3 h 43.500014 c 4.00417,0 7.25,3.043188 7.25,6.796875 v 40.781249 c 0,3.753693 -3.24583,6.796876 -7.25,6.796876 H 10.249993 c -4.00406,0 -7.25,-3.043183 -7.25,-6.796876 z"
+     id="path738"
+     style="fill:#008080;fill-opacity:1;stroke-width:3.625" />
+  <text
+     x="6.3520732"
+     y="47.897503"
+     id="text3165-3"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.5961px;line-height:125%;font-family:AlArabiya;-inkscape-font-specification:AlArabiya;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.41381px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="scale(1.0010881,0.99891308)"><tspan
+       x="6.3520732"
+       y="47.897503"
+       id="tspan3167-6"
+       style="stroke-width:1.41381px">23</tspan></text>
+</svg>
