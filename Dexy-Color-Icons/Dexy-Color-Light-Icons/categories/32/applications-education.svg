@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   version="1.1"
+   height="64"
+   viewBox="0 0 64 64"
+   id="svg13586"
+   sodipodi:docname="applications-education.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13588"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="16.067797"
+     inkscape:cy="16.067797"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs5455">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22063-0"
+       id="linearGradient22065-6"
+       x1="-22"
+       y1="5.1111121"
+       x2="-6.4444442"
+       y2="-9.1111107"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.6250002,0,0,3.6250002,467.32143,555.048)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient22063-0">
+      <stop
+         style="stop-color:#88c0d0;stop-opacity:1;"
+         offset="0"
+         id="stop22059-6" />
+      <stop
+         style="stop-color:#5e81ac;stop-opacity:1;"
+         offset="1"
+         id="stop22061-2" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata5458" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-384.57143,-515.798)">
+    <path
+       d="m 387.57143,526.048 c 0,-4.00417 3.24594,-7.25 7.25,-7.25 h 43.5 c 4.00418,0 7.25,3.24583 7.25,7.25 v 43.5 c 0,4.00417 -3.24582,7.25 -7.25,7.25 h -43.5 c -4.00406,0 -7.25,-3.24583 -7.25,-7.25 z"
+       id="path736-7"
+       style="fill:#606c86;fill-opacity:1;stroke-width:3.625" />
+    <path
+       d="m 387.57143,525.59487 c 0,-3.75368 3.24594,-6.79687 7.25,-6.79687 h 43.5 c 4.00418,0 7.25,3.04319 7.25,6.79687 v 40.78125 c 0,3.7537 -3.24582,6.79688 -7.25,6.79688 h -43.5 c -4.00406,0 -7.25,-3.04318 -7.25,-6.79688 z"
+       id="path738-9"
+       style="fill:url(#linearGradient22065-6);fill-opacity:1;stroke-width:3.625" />
+    <g
+       transform="matrix(0.14948913,0,0,0.14948913,1485.1246,540.47264)"
+       fill="#eceff4"
+       id="g14039"
+       style="fill:#d8dee9;fill-opacity:1">
+      <g
+         transform="matrix(0.70353,0,0,0.70353,-6823.1,-40.25)"
+         fill="#eceff4"
+         id="g14037"
+         style="fill:#d8dee9;fill-opacity:1">
+        <g
+           transform="translate(-654.86,-88.217)"
+           fill="#eceff4"
+           id="g14035"
+           style="fill:#d8dee9;fill-opacity:1">
+          <g
+             transform="matrix(1.0301,0,0,1.0301,-2.8242,-15.71)"
+             fill="#eceff4"
+             id="g14033"
+             style="fill:#d8dee9;fill-opacity:1">
+            <g
+               transform="matrix(0.92594,0,0,0.92594,-33.98,-0.030807)"
+               fill="#eceff4"
+               id="g14031"
+               style="fill:#d8dee9;fill-opacity:1">
+              <g
+                 fill="#eceff4"
+                 id="g14029"
+                 style="fill:#d8dee9;fill-opacity:1">
+                <g
+                   fill="#eceff4"
+                   id="g14027"
+                   style="fill:#d8dee9;fill-opacity:1">
+                  <polygon
+                     points="484.01,179.19 241.9,62.561 0,179.08 0,189.95 241.9,306.47 484.01,189.84 "
+                     id="polygon14021"
+                     style="fill:#d8dee9;fill-opacity:1" />
+                  <path
+                     d="m 83.808,251.57 v 69.7 l 145.84,70.25 h 24.506 l 145.44,-70.057 c 0.14,-0.307 0.271,-0.613 0.402,-0.922 V 251.569 L 241.906,327.721 83.816,251.57 Z"
+                     id="path14023"
+                     style="fill:#d8dee9;fill-opacity:1" />
+                  <polygon
+                     points="445.74,421.44 452.12,421.44 470.98,396.2 458.51,358.2 458.51,222.6 439.36,232.26 439.36,358.2 426.88,396.2 "
+                     id="polygon14025"
+                     style="fill:#d8dee9;fill-opacity:1" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
