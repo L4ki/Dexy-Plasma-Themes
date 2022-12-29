@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="dialog-question.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22063-0"
+       id="linearGradient22065-6"
+       x1="-13.999999"
+       y1="6"
+       x2="-13.999999"
+       y2="-9.999999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8750001,0,0,1.8750001,42.249999,19.749999)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient22063-0">
+      <stop
+         style="stop-color:#6b8c4f;stop-opacity:1;"
+         offset="0"
+         id="stop22059-6" />
+      <stop
+         style="stop-color:#8fbcbb;stop-opacity:1;"
+         offset="1"
+         id="stop22061-2" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient4167-3"
+       id="linearGradient4202"
+       x1="416.57101"
+       y1="507.798"
+       x2="421.56601"
+       y2="518.59198"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.69897481,0,0,0.69897481,-268.53259,-349.23609)" />
+    <linearGradient
+       id="linearGradient4167-3">
+      <stop
+         offset="0"
+         style="stop-color:#fff8ac;stop-opacity:1"
+         id="stop212" />
+      <stop
+         offset="1"
+         style="stop-color:#f6bf3a;stop-opacity:1"
+         id="stop214" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient4212"
+       id="linearGradient4229"
+       x1="9"
+       y1="14"
+       x2="30"
+       y2="35"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.69897481,0,0,0.69897481,0.273099,0.110105)" />
+    <linearGradient
+       id="linearGradient4212">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop21980" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop21982" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="16.338983"
+     inkscape:cy="5.3559322"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     d="M 0.999999,4.75 C 0.999999,2.678875 2.678932,1 4.75,1 h 22.500001 c 2.071124,0 3.75,1.678875 3.75,3.75 v 22.5 c 0,2.071124 -1.678876,3.75 -3.75,3.75 H 4.75 C 2.678932,31 0.999999,29.321124 0.999999,27.25 Z"
+     id="path736-7"
+     style="fill:#606c86;fill-opacity:1;stroke-width:1.875" />
+  <path
+     d="M 0.999999,4.515625 C 0.999999,2.574063 2.678932,1 4.75,1 h 22.500001 c 2.071124,0 3.75,1.574063 3.75,3.515625 v 21.093749 c 0,1.941566 -1.678876,3.515626 -3.75,3.515626 H 4.75 c -2.071068,0 -3.750001,-1.57406 -3.750001,-3.515626 z"
+     id="path738-9"
+     style="fill:url(#linearGradient22065-6);fill-opacity:1;stroke-width:1.875" />
+  <path
+     d="m 15.999975,6 a 6,6 0 0 0 -6,5.999999 h 2 A 4,4 0 0 1 15.939475,8 a 4,4 0 0 1 0.06055,0 4,4 0 0 1 4,3.999999 4,4 0 0 1 -4,4 v 2 a 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-5.999999 z"
+     fill="#ffffff"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="2"
+     stroke-width="2.1818"
+     id="path4-3" />
+  <circle
+     cx="15.999978"
+     cy="24.000002"
+     r="2"
+     fill="#ffffff"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="2"
+     stroke-width="2"
+     id="circle6-6" />
+  <rect
+     x="14.999978"
+     y="16"
+     width="2"
+     height="4"
+     fill="#ffffff"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-miterlimit="2"
+     stroke-width="1.4142"
+     id="rect8-7" />
+</svg>
