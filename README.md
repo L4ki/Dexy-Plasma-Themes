@@ -172,6 +172,14 @@ Plasma Theme
 
 Added icon: internet.svg
 
+Changelog: 29.12.2022.
+---------------------
+
+Plasma Theme
+------------
+
+Added icon: lutris.svg
+
 
 
 
