@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 130 130"
+   version="1.1"
+   id="svg3141"
+   sodipodi:docname="user-none.svg"
+   width="130"
+   height="130"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3143"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="103.74095"
+     inkscape:cy="88.59209"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3141">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3262"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      </style>
+    <linearGradient
+       id="linearGradient4213"
+       inkscape:collect="always">
+      <stop
+         id="stop4215"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop4217"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4213"
+       id="linearGradient6632"
+       gradientUnits="userSpaceOnUse"
+       x1="60.000046"
+       y1="982.36224"
+       x2="115"
+       y2="1037.3622"
+       gradientTransform="matrix(1.2800007,0,0,1.28,-7e-5,-1219.0238)" />
+  </defs>
+  <path
+     style="fill:currentColor;fill-opacity:1;stroke:none"
+     d="m 0,20 v 90 c 0,10 10,20 20.54733,20 H 110 c 10,0 20,-10 20,-20.83102 V 20 C 130,10 120,5 109.97332,0 H 20 C 10,0 0,10 0,20 Z"
+     class="ColorScheme-Highlight"
+     id="rect5879"
+     sodipodi:nodetypes="ccccccccc" />
+  <path
+     style="opacity:0.2;fill:url(#linearGradient6632);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 82.814453,19.794922 82.251953,44.957031 54.541016,84.882812 66.505859,99.039062 52.982422,111.07422 68.798828,128 H 128 V 62.480469 Z"
+     id="path6588" />
+  <path
+     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:none"
+     d="M 63.833984,14 C 54.37899,14 45.434032,16.226417 37,20.679688 l 4.195312,9.457031 c 4.217017,-2.02822 8.011153,-3.483395 11.384766,-4.365235 3.418003,-0.88183 6.903907,-1.322265 10.455078,-1.322265 5.326758,0 9.409063,1.168999 12.25,3.505859 2.840937,2.33686 4.261719,5.687654 4.261719,10.052734 0,2.336861 -0.310186,4.386731 -0.931641,6.150391 -0.621455,1.76367 -1.686064,3.527346 -3.195312,5.291016 -1.509248,1.76367 -4.683014,4.674029 -9.521484,8.730469 -4.261407,3.52733 -7.237022,6.945073 -8.923829,10.251953 -1.686806,3.26279 -2.529296,7.516672 -2.529297,12.763671 v 3.638672 h 9.521485 v -2.25 c 0,-4.0123 0.710391,-7.2312 2.130859,-9.65625 1.464858,-2.46913 4.394488,-5.576428 8.789063,-9.324218 5.371147,-4.45327 8.945117,-7.804055 10.720703,-10.052735 1.819975,-2.24868 3.172754,-4.629348 4.060547,-7.142578 C 90.555762,43.894983 91,41.006931 91,37.744141 91,30.248551 88.580657,24.427823 83.742188,20.283203 78.903716,16.094493 72.268017,14 63.833984,14 Z m -4.0625,81.679688 c -5.637484,0 -8.455078,3.019946 -8.455078,9.060542 0,3.2628 0.776441,5.62313 2.330078,7.07813 1.598028,1.455 3.63918,2.18164 6.125,2.18164 2.53021,0 4.551299,-0.79356 6.060547,-2.38086 1.509248,-1.6314 2.263672,-3.92481 2.263672,-6.87891 0,-2.9982 -0.754424,-5.246989 -2.263672,-6.746089 -1.464858,-1.5432 -3.485947,-2.314453 -6.060547,-2.314453 z"
+     id="text8241" />
+</svg>
