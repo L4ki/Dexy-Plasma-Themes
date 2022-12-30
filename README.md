@@ -49,7 +49,7 @@ Dexy-Color-Plasma (Follows Color Scheme)
 ----------------------------------------
 
 Screenshots:
-------------
+-------------
 
 ![Screenshot_20221223_192322](https://user-images.githubusercontent.com/45247573/209803033-b66af263-f4eb-47a7-a4cf-edecb7821e63.jpg)
 
