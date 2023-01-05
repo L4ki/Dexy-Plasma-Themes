@@ -180,6 +180,14 @@ Plasma Theme
 
 Added icon: lutris.svg
 
+Changelog: 05.01.2023.
+---------------------
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Added icon: krfb.svg
+
 
 
 
