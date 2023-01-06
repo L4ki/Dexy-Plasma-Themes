@@ -188,6 +188,18 @@ Plasma Theme "Dexy-Plasma"
 
 Added icon: krfb.svg
 
+Changelog: 06.01.2023.
+---------------------
+
+Plasma Theme "Dexy-Color-Plasma"
+-------------------------------
+
+Added icons: internet.svg, jami.svg
+
+Icons
+------
+
+Added new icons: apps 32, 48
 
 
 
