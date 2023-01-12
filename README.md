@@ -201,6 +201,18 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 12.01.2023.
+---------------------
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Added icon: ring.svg
+
+GTK Theme: "Dexy-GTK"
+----------------------
+
+Update icon: checkbox-checked-active.png
 
 
 
