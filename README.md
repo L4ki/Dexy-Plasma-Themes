@@ -214,6 +214,19 @@ GTK Theme: "Dexy-GTK"
 
 Update icon: checkbox-checked-active.png
 
+Changelog: 13.01.2023.
+---------------------
+
+Plasma Theme "Dexy-Color-Plasma"
+-------------------------------
+
+Added icon: sirikali.svg
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
 
 
 
