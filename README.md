@@ -227,6 +227,24 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 19.01.2023.
+---------------------
+
+Kvantum Theme
+-------------
+
+Update: Dexy-Kvantum.svg
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Update widget: clock.svg
+
+GTK Theme: "Dexy-GTK"
+----------------------
+
+Update icon: entry-background-insensitive.png
+
 
 
 
