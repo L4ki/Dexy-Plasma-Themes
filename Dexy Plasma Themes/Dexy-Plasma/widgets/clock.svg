@@ -19,7 +19,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="1002"
+     inkscape:window-height="1004"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -30,13 +30,13 @@
      bordercolor="#000000"
      pagecolor="#cccccc"
      id="base"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="108.18734"
-     inkscape:cy="99.702055"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="105.53568"
+     inkscape:cy="132.05219"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
-     showgrid="false"
+     showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1"
@@ -80,34 +80,6 @@
   </metadata>
   <defs
      id="defs5">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1783">
-      <stop
-         style="stop-color:#7580bc;stop-opacity:0;"
-         offset="0"
-         id="stop1779" />
-      <stop
-         style="stop-color:#7580bc;stop-opacity:0;"
-         offset="0.10837922"
-         id="stop1789" />
-      <stop
-         style="stop-color:#7580bc;stop-opacity:1;"
-         offset="0.10850529"
-         id="stop3322" />
-      <stop
-         style="stop-color:#7580bc;stop-opacity:1;"
-         offset="0.11608429"
-         id="stop1787" />
-      <stop
-         style="stop-color:#7580bc;stop-opacity:1;"
-         offset="0.1195989"
-         id="stop3320" />
-      <stop
-         style="stop-color:#7580bc;stop-opacity:1;"
-         offset="1"
-         id="stop1781" />
-    </linearGradient>
     <linearGradient
        id="linearGradient1085">
       <stop
@@ -358,16 +330,6 @@
        fy="382.72916"
        r="96.605507"
        gradientTransform="matrix(1.0765432,0,0,1.0765432,-334.53758,167.99246)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1783"
-       id="linearGradient1785"
-       x1="83.641693"
-       y1="76.548164"
-       x2="168.99756"
-       y2="76.554298"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.9991728,0,0,0.85993439,-1.8725639,11.773591)" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -668,7 +630,7 @@
      y="70" />
   <g
      id="SecondHand"
-     transform="rotate(90,244.14998,116.45002)">
+     transform="matrix(0,0.94853801,-0.8,0,316.8,-134.61014)">
     <rect
        x="247"
        y="64"
@@ -685,13 +647,14 @@
        id="g170">
       <rect
          x="81.699959"
-         y="76.599998"
+         y="77"
          width="85.5"
          height="2"
          rx="1.5338267"
          ry="1"
-         style="fill:url(#linearGradient1785);fill-opacity:1;stroke-width:0.910435;paint-order:fill markers stroke"
-         id="rect166" />
+         style="color:#7580bc;fill:currentColor;fill-opacity:1;stroke-width:0.910435;paint-order:fill markers stroke"
+         id="rect166"
+         class="ColorSneme-Highlight  ColorScheme-Highlight" />
       <circle
          cx="89.853874"
          cy="81"
@@ -702,7 +665,7 @@
   </g>
   <g
      id="MinuteHand"
-     transform="translate(145,20.000008)">
+     transform="translate(116,-2.4)">
     <g
        transform="translate(23,2)"
        fill="#ffffff"
@@ -712,13 +675,15 @@
          stroke-linecap="round"
          stroke-linejoin="round"
          stroke-width="1.3333"
-         style="fill:#d1d5e9;fill-opacity:1;paint-order:fill markers stroke"
-         id="path173" />
+         style="color:#d1d5e9;fill:currentColor;fill-opacity:1;paint-order:fill markers stroke"
+         id="path173"
+         class="ColorScheme-Text" />
       <path
          transform="translate(-23,-2)"
          d="m 123,105 -2,7 1,63 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 l 1,-63 z"
          id="path175"
-         style="fill:#d1d5e9;fill-opacity:1" />
+         style="color:#d1d5e9;fill:currentColor;fill-opacity:1"
+         class="ColorScheme-Text" />
     </g>
     <rect
        x="117"
@@ -736,23 +701,25 @@
   </g>
   <g
      id="HourHand"
-     transform="translate(89,47.000008)">
+     transform="translate(60,26.6)">
     <g
        transform="rotate(90,126.5,99.5)"
        fill="#ffffff"
        id="g186">
       <path
-         transform="rotate(-90,85,85)"
          d="m 93,103 -2,7 1,44 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 l 1,-44 z"
          id="path182"
-         style="fill:#d1d5e9;fill-opacity:1" />
+         style="color:#d1d5e9;fill:currentColor;fill-opacity:1"
+         class="ColorScheme-Text"
+         transform="rotate(-90,85,85)" />
       <path
          d="m 100,73 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 0,1 a 3,3 0 0 1 3,3 3,3 0 0 1 -3,3 3,3 0 0 1 -3,-3 3,3 0 0 1 3,-3 z"
          stroke-linecap="round"
          stroke-linejoin="round"
          stroke-width="1.3333"
-         style="fill:#d1d5e9;fill-opacity:1;paint-order:fill markers stroke"
-         id="path184" />
+         style="color:#d1d5e9;fill:currentColor;fill-opacity:1;paint-order:fill markers stroke"
+         id="path184"
+         class="ColorScheme-Text" />
     </g>
     <rect
        x="140"
