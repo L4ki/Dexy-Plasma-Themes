@@ -252,7 +252,7 @@ Changelog: 20.01.2023.
 Plasma Theme "Dexy-Color-Plasma"
 -------------------------------
 
-Update icon: clock.svg
+Update widget: clock.svg
 
 Icons
 ------
