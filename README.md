@@ -246,5 +246,19 @@ GTK Theme: "Dexy-GTK"
 Update icon: entry-background-insensitive.png
 
 
+Changelog: 20.01.2023.
+---------------------
+
+Plasma Theme "Dexy-Color-Plasma"
+-------------------------------
+
+Update icon: clock.svg
+
+Icons
+------
+
+Update icons: apps 32, 48
+
+
 
 
