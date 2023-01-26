@@ -260,5 +260,14 @@ Icons
 Update icons: apps 32, 48
 
 
+Changelog: 26.01.2023.
+---------------------
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Added icon: offline.svg
+
+
 
 
