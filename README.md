@@ -271,6 +271,11 @@ Added icon: offline.svg
 Changelog: 27.01.2023.
 ---------------------
 
+GTK Theme "Dexy-Color-Dark-GTK"
+------------------------------
+
+Update: checkbox-checked.png
+
 Plasma Theme "Dexy-Color-Plasma"
 -------------------------------
 
