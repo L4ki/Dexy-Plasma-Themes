@@ -268,6 +268,19 @@ Plasma Theme "Dexy-Plasma"
 
 Added icon: offline.svg
 
+Changelog: 27.01.2023.
+---------------------
+
+Plasma Theme "Dexy-Color-Plasma"
+-------------------------------
+
+Added icon: cadence.svg
+
+Icons
+------
+
+Added new icons: apps 32
+
 
 
 
