@@ -286,6 +286,19 @@ Icons
 
 Added new icons: apps 32
 
+Changelog: 03.02.2023.
+---------------------
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Added icon: desktop.svg, process.svg
+
+GTK-Theme "Dexy-GTK"
+--------------------
+
+Update icon: checkbox-checked.png
+
 
 
 
