@@ -299,6 +299,16 @@ GTK-Theme "Dexy-GTK"
 
 Update icon: checkbox-checked.png
 
+Plasma Theme "Dexy-Color-Plasma"
+--------------------------------
+
+Added icons: desktop.svg, process.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
