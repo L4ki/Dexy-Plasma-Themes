@@ -309,6 +309,27 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 10.02.2023.
+---------------------
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Added icon: corectrl.svg
+
+
+Plasma Theme "Dexy-Color-Plasma"
+--------------------------------
+
+Added icon: ring.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+
+
 
 
 
