@@ -332,8 +332,8 @@ Added new icons: apps 32, 48
 Changelog: 12.02.2023.
 ---------------------
 
-GTK Theme
----------
+GTK Theme "Dexy-Color-Dark-GTK"
+-------------------------------
 
 Update: checkbox-checked-insensitive.png
 
