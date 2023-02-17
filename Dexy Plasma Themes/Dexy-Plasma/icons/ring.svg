@@ -21,10 +21,10 @@
      inkscape:deskcolor="#cccccc"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="22.867114"
+     inkscape:cx="22.819175"
      inkscape:cy="24.401176"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1004"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -39,7 +39,7 @@
      id="l4k1">
     <style
        type="text/css"
-       id="current-color-scheme"></style>
+       id="current-color-scheme" />
   </defs>
   <g
      id="ring-kde">
@@ -52,28 +52,18 @@
        id="rect1394" />
     <path
        inkscape:connector-curvature="0"
-       style="color:#000000;fill:#d1d5e9;fill-opacity:1;stroke-width:0.590878"
+       style="color:#000000;fill:#d1d5e9;fill-opacity:0.60000002;stroke-width:0.590878"
        id="path6313"
        d="m 6.7941726,8.441154 -1.745677,3.117692 c -1.1637832,2.078461 18.9935474,14.078461 20.1573324,12 l 1.745676,-3.117692 c 1.163784,-2.078461 -18.9935474,-14.078461 -20.1573314,-12 z" />
     <path
        inkscape:connector-curvature="0"
-       style="color:#000000;fill:#d1d5e9;fill-opacity:1;stroke-width:0.590878"
+       style="color:#000000;fill:#d1d5e9;fill-opacity:0.60000002;stroke-width:0.590878"
        id="path6309"
        d="m 25.205828,8.441154 1.745676,3.117692 c 1.163784,2.078461 -18.9935474,14.078461 -20.1573314,12 l -1.745677,-3.117692 c -1.1637832,-2.078461 18.9935474,-14.078461 20.1573324,-12 z" />
     <path
        inkscape:connector-curvature="0"
        style="color:#000000;fill:#d1d5e9;fill-opacity:1;stroke-width:0.590878"
-       id="path6359"
-       d="m 25.205828,8.441154 1.745676,3.117692 c 1.163784,2.078461 -18.9935474,14.078461 -20.1573314,12 l -1.745677,-3.117692 c -1.1637832,-2.078461 18.9935474,-14.078461 20.1573324,-12 z" />
-    <path
-       inkscape:connector-curvature="0"
-       style="color:#000000;fill:#d1d5e9;fill-opacity:1;stroke-width:0.590878"
        id="rect5354"
-       d="m 14.254324,4 h 3.49135 c 2.327567,0 2.327567,24 0,24 h -3.49135 c -2.327567,0 -2.327567,-24 0,-24 z" />
-    <path
-       inkscape:connector-curvature="0"
-       style="color:#000000;fill:#d1d5e9;fill-opacity:1;stroke-width:0.590878"
-       id="path6369"
        d="m 14.254324,4 h 3.49135 c 2.327567,0 2.327567,24 0,24 h -3.49135 c -2.327567,0 -2.327567,-24 0,-24 z" />
   </g>
   <g
@@ -88,28 +78,18 @@
        id="rect1399" />
     <path
        inkscape:connector-curvature="0"
-       style="color:#000000;fill:#d1d5e9;fill-opacity:1;stroke-width:0.393919"
+       style="color:#000000;fill:#d1d5e9;fill-opacity:0.60000002;stroke-width:0.393919"
        id="path6313-3"
        d="M 4.8961145,5.960769 3.7323304,8.039231 c -0.775856,1.38564 12.6623636,9.38564 13.4382206,8 l 1.163784,-2.078462 c 0.775856,-1.38564 -12.6623645,-9.38564 -13.4382205,-8 z" />
     <path
        inkscape:connector-curvature="0"
-       style="color:#000000;fill:#d1d5e9;fill-opacity:1;stroke-width:0.393919"
+       style="color:#000000;fill:#d1d5e9;fill-opacity:0.60000002;stroke-width:0.393919"
        id="path6309-6"
        d="m 17.170551,5.960769 1.163784,2.078462 c 0.775856,1.38564 -12.6623645,9.38564 -13.4382205,8 L 3.7323304,13.960769 c -0.775856,-1.38564 12.6623636,-9.38564 13.4382206,-8 z" />
     <path
        inkscape:connector-curvature="0"
        style="color:#000000;fill:#d1d5e9;fill-opacity:1;stroke-width:0.393919"
-       id="path6359-7"
-       d="m 17.170551,5.960769 1.163784,2.078462 c 0.775856,1.38564 -12.6623645,9.38564 -13.4382205,8 L 3.7323304,13.960769 c -0.775856,-1.38564 12.6623636,-9.38564 13.4382206,-8 z" />
-    <path
-       inkscape:connector-curvature="0"
-       style="color:#000000;fill:#d1d5e9;fill-opacity:1;stroke-width:0.393919"
        id="rect5354-5"
-       d="m 9.8695486,3 h 2.3275664 c 1.551711,0 1.551711,16 0,16 H 9.8695486 c -1.551711,0 -1.551711,-16 0,-16 z" />
-    <path
-       inkscape:connector-curvature="0"
-       style="color:#000000;fill:#d1d5e9;fill-opacity:1;stroke-width:0.393919"
-       id="path6369-3"
        d="m 9.8695486,3 h 2.3275664 c 1.551711,0 1.551711,16 0,16 H 9.8695486 c -1.551711,0 -1.551711,-16 0,-16 z" />
   </g>
 </svg>
