@@ -337,6 +337,25 @@ GTK Theme "Dexy-Color-Dark-GTK"
 
 Update: checkbox-checked-insensitive.png
 
+Changelog: 17.02.2023.
+---------------------
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Update icon: ring.svg
+
+
+Plasma Theme "Dexy-Color-Plasma"
+--------------------------------
+
+Added icon: corectrl.svg
+
+Icons
+-----
+
+Added new icons: apps 32
+
 
 
 
