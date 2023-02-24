@@ -356,6 +356,24 @@ Icons
 
 Added new icons: apps 32
 
+Changelog: 24.02.2023.
+---------------------
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Added icon: org.rnd2.cpupower_gui.svg
+
+
+Plasma Theme "Dexy-Color-Plasma"
+--------------------------------
+
+Added icon: lutris.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
 
 
 
