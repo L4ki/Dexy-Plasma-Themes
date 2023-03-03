@@ -375,6 +375,25 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 03.03.2023.
+---------------------
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Added icon: microphone.svg
+
+
+Plasma Theme "Dexy-Color-Plasma"
+--------------------------------
+
+Added icon: org.rnd2.cpupower_gui.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
