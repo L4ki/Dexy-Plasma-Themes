@@ -394,6 +394,19 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 10.03.2023.
+---------------------
+
+Plasma Theme "Dexy-Plasma" and "Dexy-Color-Plasma"
+-------------------------
+
+Added icon: antimicro.svg
+
+Icons
+-----
+
+Added new icons: apps 32
+
 
 
 
