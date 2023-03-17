@@ -420,7 +420,7 @@ Plasma Theme "Dexy-Color-Plasma"
 
 Added icon: offline.svg
 
-Upodate icon: krfb.svg
+Update icon: krfb.svg
 
 Icons
 -----
