@@ -407,6 +407,26 @@ Icons
 
 Added new icons: apps 32
 
+Changelog: 17.03.2023.
+---------------------
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Update widget: panel-background.svg
+
+Plasma Theme "Dexy-Color-Plasma"
+--------------------------------
+
+Added icon: offline.svg
+
+Upodate icon: krfb.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
