@@ -432,6 +432,32 @@ Aurorae Themes
 
 Update: Auroraerc
 
+Changelog: 24.03.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Added new icon: quota.svg
+
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+GTK Theme "Dexy-GTK"
+--------------------
+
+Update icon: tab-horz-gap.png
+
+GTK Theme "Dexy-Color-Dark-GTK"
+-------------------------------
+
+Update icon: tab-down, tab-up
+
+
+
 
 
 
