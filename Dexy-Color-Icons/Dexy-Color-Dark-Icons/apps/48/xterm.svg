@@ -4,7 +4,7 @@
    height="64"
    version="1.1"
    id="svg23117"
-   sodipodi:docname="xterm.svg"
+   sodipodi:docname="utilities-terminal.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,10 +22,10 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24.305085"
-     inkscape:cy="24.305085"
+     inkscape:cx="24.101695"
+     inkscape:cy="24.101695"
      inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -105,51 +105,25 @@
          id="stop22061" />
     </linearGradient>
     <linearGradient
-       id="b-3"
-       y1="34"
-       y2="14"
-       x2="0"
+       inkscape:collect="always"
+       xlink:href="#b"
+       id="linearGradient25004"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4871899,0,0,1.4871899,-11.624532,-3.820659)">
-      <stop
-         stop-color="#b40000"
-         id="stop7" />
-      <stop
-         offset="1"
-         stop-color="#b40000"
-         id="stop9" />
-    </linearGradient>
+       gradientTransform="matrix(1.4224964,0,0,1.4195896,-2.478638,-2.7062647)"
+       x1="36"
+       y1="44"
+       x2="14"
+       y2="12" />
     <linearGradient
-       id="c-6"
-       y1="523.79999"
-       x1="403.57001"
-       y2="536.79999"
-       x2="416.57001"
+       inkscape:collect="always"
+       xlink:href="#c"
+       id="linearGradient25006"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4871899,0,0,1.4871899,-576.11719,-747.11816)">
-      <stop
-         stop-color="#292c2f"
-         id="stop12" />
-      <stop
-         offset="1"
-         stop-opacity="0"
-         id="stop14" />
-    </linearGradient>
-    <linearGradient
-       id="d"
-       y1="34"
-       y2="14"
-       gradientUnits="userSpaceOnUse"
-       x2="0"
-       gradientTransform="matrix(1.4871899,0,0,1.4871899,-11.624532,-3.820659)">
-      <stop
-         stop-color="#ec0000"
-         id="stop17" />
-      <stop
-         offset="1"
-         stop-color="#ff2020"
-         id="stop19" />
-    </linearGradient>
+       gradientTransform="matrix(1.4224964,0,0,1.4195896,-549.52819,-712.21743)"
+       x1="406.50101"
+       y1="527.01398"
+       x2="419.974"
+       y2="539.82501" />
   </defs>
   <path
      d="M 3,10.25 C 3,6.245825 6.245938,3 10.25,3 h 43.500005 c 4.00417,0 7.25,3.245825 7.25,7.25 v 43.5 c 0,4.004173 -3.24583,7.25 -7.25,7.25 H 10.25 C 6.245938,61 3,57.754173 3,53.75 Z"
@@ -160,27 +134,11 @@
      id="path738"
      style="fill:url(#linearGradient22065);fill-opacity:1;stroke-width:3.625" />
   <path
-
-     d="M 29.407038,31.871899 44.278937,46.743798 46.381823,44.640911 33.615785,31.871899 46.381823,19.102886 44.278937,17 Z"
-     id="path28"
-     style="fill:url(#b-3);stroke-width:1.48719" />
+     style="fill:url(#linearGradient25004);stroke:none;stroke-width:0.28421;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 26.560222,17.168 -2.011415,2.007305 12.213556,12.188603 -12.213556,12.188591 2.011415,2.007309 14.22496,-14.1959 -2.011399,-2.00731 z"
+     id="path23111-1" />
   <path
-     opacity="0.4"
-
-     fill-rule="evenodd"
-     d="M 18.743887,46.743798 33.000089,61 H 61.256697 L 66.58976,39.307848 46.384798,19.102886 Z"
-     id="path30"
-     style="fill:url(#c-6);stroke-width:1.48719" />
-  <path
-
-     d="M 18.743887,17 16.641,19.102887 29.407038,31.871899 16.641,44.640911 18.743887,46.743798 33.615785,31.871899 Z"
-     id="path32"
-     style="fill:url(#d);stroke-width:1.48719" />
-  <path
-     fill="#ffffff"
-     fill-rule="evenodd"
-     fill-opacity="0.294"
-     d="m 18.734963,17 -0.615696,0.615697 14.871899,14.86595 0.615696,-0.615697 z"
-     id="path34"
-     style="stroke-width:1.48719" />
+     d="M 26.568751,45.559808 40.204807,59.168 h 19.91496 V 50.650451 L 40.793728,31.363908 Z"
+     style="opacity:0.4;fill:url(#linearGradient25006);fill-rule:evenodd;stroke-width:1.42104"
+     id="path23113-5" />
 </svg>
