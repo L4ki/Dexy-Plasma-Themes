@@ -457,6 +457,27 @@ GTK Theme "Dexy-Color-Dark-GTK"
 Update icon: tab-down, tab-up
 
 
+Changelog: 31.03.2023.
+---------------------
+
+Plasma Theme Dexy-Plasma"
+-------------------------
+
+Update widget: tasks.svg
+
+
+Plasma Theme Dexy-Color-Plasma"
+------------------------------
+
+Added icon: microphone.svg
+
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+
 
 
 
