@@ -1,13 +1,21 @@
 [Desktop Entry]
-Comment=Dexy Color Global Theme
-Name=Dexy-Color-Global
+Name=Dexy-Color-Plasma
+Comment=Dexy Color Plasma Theme
 X-KDE-PluginInfo-Author=l4k1
-X-KDE-PluginInfo-Category=Plasma Look And Feel
-X-KDE-PluginInfo-Email=
-X-KDE-PluginInfo-EnabledByDefault=true
-X-KDE-PluginInfo-License=GPLv3
-X-KDE-PluginInfo-Name=Dexy-Color-Global
+X-KDE-PluginInfo-Email=lak1987@gmail.com
+X-KDE-PluginInfo-Name=Dexy-Color-Plasma
 X-KDE-PluginInfo-Version=2.3
 X-KDE-PluginInfo-Website=
-X-KDE-ServiceTypes=Plasma/LookAndFeel
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1963987,kns://colorschemes.knsrc/api.kde-look.org/1963982,kns://plasma-themes.knsrc/api.kde-look.org/1964011,kns://icons.knsrc/api.kde-look.org/1964004,kns://icons.knsrc/api.kde-look.org/1964003,kns://aurorae.knsrc/api.kde-look.org/1963996,kns://aurorae.knsrc/api.kde-look.org/1963992,kns://aurorae.knsrc/api.kde-look.org/1964001,kns://wallpaper.knsrc/api.kde-look.org/1963966,kns://wallpaper.knsrc/api.kde-look.org/1963955,kns://sddmtheme.knsrc/api.kde-look.org/1963976
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[AdaptiveTransparency]
+enabled=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
