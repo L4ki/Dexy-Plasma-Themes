@@ -477,6 +477,26 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 07.04.2023.
+---------------------
+
+Plasma Theme Dexy-Plasma"
+-------------------------
+
+Added icon: accessories.svg
+
+
+Plasma Theme Dexy-Color-Plasma"
+------------------------------
+
+Added icon: accessories.svg
+
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
