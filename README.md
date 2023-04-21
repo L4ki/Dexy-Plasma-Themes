@@ -521,6 +521,19 @@ GTK Theme "Dexy-Color-Dark-GTK"
 
 Update icons:  tab-vert-gap.png, tab-horz-gap.png
 
+Changelog: 21.04.2023.
+---------------------
+
+Plasma Themes
+-------------
+
+Update icon: quassel.svg
+
+
+Icons
+-----
+
+Added new icons: apps 32, 48
 
 
 
