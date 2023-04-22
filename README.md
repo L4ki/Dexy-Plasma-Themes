@@ -535,6 +535,16 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 22.04.2023.
+------------------------
+
+GTK Theme "Dexy-GTK" and "Dexy-Color-Dark-GTK"
+----------------------------------------------
+
+Update icons:  tab-up-active.png, tab-up.png
+
+
+
 
 
 
