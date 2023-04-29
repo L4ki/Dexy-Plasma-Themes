@@ -543,6 +543,24 @@ GTK Theme "Dexy-GTK" and "Dexy-Color-Dark-GTK"
 
 Update icons:  tab-up-active.png, tab-up.png
 
+Changelog: 29.04.2023.
+------------------------
+
+GTK Theme "Dexy-GTK" and "Dexy-Color-Dark-GTK"
+----------------------------------------------
+
+Added: gtk-4.0
+
+Plasma Themes
+-------------
+
+Update widget: listitem.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
