@@ -586,6 +586,31 @@ Icons
 Added new icons: apps 32, 48
 
 
+Changelog: 13.05.2023.
+------------------------
+
+GTK Theme "Dexy-GTK" and "Dexy-Color-Dark-GTK"
+----------------------------------------------
+
+Update:  frame-notebook.png
+
+Plasma Theme Dexy-Plasma"
+-------------------------
+
+Update widget: tasks.svg
+
+
+Plasma Theme "Dexy-Color-Plasma"
+--------------------------------
+
+Update widget: tasks.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+
 
 
 
