@@ -8,7 +8,7 @@
    sodipodi:docname="lineedit.svg"
    height="107.73376"
    width="42.667091"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:version="0.32"
    id="svg2"
    viewBox="0 0 40.000397 101.0004"
@@ -29,7 +29,7 @@
 .ColorScheme-Background { color:#000000; }
 </style>
   <sodipodi:namedview
-     inkscape:window-height="1000"
+     inkscape:window-height="1002"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -38,11 +38,11 @@
      objecttolerance="10.0"
      borderopacity="1"
      bordercolor="#000000"
-     pagecolor="#cccccc"
+     pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="13.055408"
-     inkscape:cx="19.685329"
-     inkscape:cy="8.6937152"
+     inkscape:zoom="3.263852"
+     inkscape:cx="41.515363"
+     inkscape:cy="75.677451"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -67,7 +67,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="true"
      inkscape:lockguides="true"
-     inkscape:deskcolor="#808080">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
        id="grid5592"
