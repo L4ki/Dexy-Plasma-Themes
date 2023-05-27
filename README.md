@@ -642,7 +642,7 @@ GTK Theme "Dexy-GTK" and "Dexy-Color-Dark-GTK"
 
 Update:   tab-up-active.png
 
-Plasma Theme Dexy-Plasma"
+Plasma Theme "Dexy-Plasma"
 -------------------------
 
 Update widget: actionbutton.svg
