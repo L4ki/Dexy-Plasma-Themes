@@ -634,6 +634,30 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 27.05.2023.
+------------------------
+
+GTK Theme "Dexy-GTK" and "Dexy-Color-Dark-GTK"
+----------------------------------------------
+
+Update:   tab-up-active.png
+
+Plasma Theme Dexy-Plasma"
+-------------------------
+
+Update widget: actionbutton.svg
+
+
+Plasma Theme "Dexy-Color-Plasma"
+--------------------------------
+
+Update widget: actionbutton.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
