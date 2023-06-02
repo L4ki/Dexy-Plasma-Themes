@@ -9,7 +9,7 @@ gtk-color-scheme = "insensitive_fg_color:#24273a\ninsensitive_bg_color:#24273a"
 # Menus
 gtk-color-scheme = "menu_color:#202334"
 # Links
-gtk-color-scheme = "link_color:#a6da95\nvisited_link_color:#565d8a"
+gtk-color-scheme = "link_color:#a6da95\nvisited_link_color:#5e6596"
 # Treeview headers
 gtk-color-scheme = "column_header_color:#202334\nhover_column_header_color:#d1d5e9"
 # Window decoration
