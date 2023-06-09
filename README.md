@@ -690,7 +690,7 @@ GTK Theme "Dexy-GTK"
 
 Update: tab-up.png
 
-GTK Theme Dexy-Color-Dark-GTK"
+GTK Theme "Dexy-Color-Dark-GTK"
 -----------------------------
 
 Update: frame-notebook.png
