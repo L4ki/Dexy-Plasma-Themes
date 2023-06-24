@@ -747,6 +747,38 @@ Aurorae Themes
 Update: Auroraerc
 
 
+Changelog: 24.06.2023.
+------------------------
+
+GTK Theme "Dexy-GTK" 
+--------------------
+
+Update: line.png
+
+GTK Theme "Dexy-Color-Dark-GTK"
+-----------------------------
+
+Update: line.png
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Update: action-overlays.svg
+
+
+Plasma Theme "Dexy-Color-Plasma"
+--------------------------------
+
+Update: action-overlays.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+
+
+
 
 
 
