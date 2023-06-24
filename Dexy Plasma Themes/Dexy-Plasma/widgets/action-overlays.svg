@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    sodipodi:docname="action-overlays.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    version="1.1"
    id="svg2"
    height="71.000008"
@@ -20,7 +20,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1002"
+     inkscape:window-height="998"
      inkscape:window-width="1920"
      inkscape:guide-bbox="true"
      showguides="false"
@@ -31,19 +31,19 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="55.331108"
-     inkscape:cx="45.785166"
-     inkscape:zoom="2.828427"
+     inkscape:cy="45.078059"
+     inkscape:cx="39.774758"
+     inkscape:zoom="5.656854"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1"
      bordercolor="#000000"
-     pagecolor="#cdcdcd"
+     pagecolor="#ffffff"
      id="base"
      inkscape:pagecheckerboard="0"
      inkscape:lockguides="false"
      inkscape:showpageshadow="true"
-     inkscape:deskcolor="#7f7f7f">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        spacingy="1"
        spacingx="1"
