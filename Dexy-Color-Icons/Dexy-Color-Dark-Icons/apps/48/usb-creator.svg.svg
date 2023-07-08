@@ -7,7 +7,7 @@
    viewBox="0 0 64.0 64.0"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="usb-creator-kde.svg"
+   sodipodi:docname="usb-creator.svg.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -117,7 +117,7 @@
     <rect
        ry="6.4440002"
        y="3"
-       x="3"
+       x="3.0000005"
        height="54.375"
        width="58"
        id="rect1045-5"
@@ -134,7 +134,7 @@
        style="fill:url(#a);stroke-width:0.673684;paint-order:markers stroke fill"
        id="rect9" />
     <rect
-       x="12.620966"
+       x="12.620965"
        y="23.732771"
        width="35.031578"
        height="23.578926"
