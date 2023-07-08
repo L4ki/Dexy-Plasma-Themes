@@ -7,7 +7,7 @@
    viewBox="0 0 64.0 64.0"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="usb-creator-kde.svg"
+   sodipodi:docname="multibootusb.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -79,7 +79,7 @@
        xlink:href="#linearGradient949"
        id="linearGradient1105"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0175438,0,0,0.95394734,-0.56140906,-0.33881613)"
+       gradientTransform="matrix(1.0175438,0,0,0.95394734,-0.56140926,-0.33881613)"
        x1="3"
        y1="60"
        x2="60"
@@ -91,7 +91,7 @@
        y1="8"
        y2="27"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.67368419,0,0,0.67368419,8.5788609,8.2380355)">
+       gradientTransform="matrix(0.67368419,0,0,0.67368419,8.5788607,8.2380355)">
       <stop
          stop-color="#dbdbdb"
          offset="0"
@@ -107,11 +107,11 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       d="M 3.0799997,10.249999 C 3.0799997,6.245825 6.3259377,3 10.33,3 h 43.500005 c 4.00417,0 7.25,3.245825 7.25,7.249999 v 43.5 c 0,4.004173 -3.24583,7.25 -7.25,7.25 H 10.33 c -4.0040623,0 -7.2500003,-3.245827 -7.2500003,-7.25 z"
+       d="M 3.0799995,10.249999 C 3.0799995,6.245825 6.3259375,3 10.33,3 h 43.500005 c 4.00417,0 7.25,3.245825 7.25,7.249999 v 43.5 c 0,4.004173 -3.24583,7.25 -7.25,7.25 H 10.33 c -4.0040625,0 -7.2500005,-3.245827 -7.2500005,-7.25 z"
        id="path736"
        style="fill:#606c86;fill-opacity:1;stroke-width:3.625" />
     <path
-       d="M 3.0799997,9.796875 C 3.0799997,6.043188 6.3259377,3 10.33,3 h 43.500005 c 4.00417,0 7.25,3.043188 7.25,6.796875 v 40.781249 c 0,3.753692 -3.24583,6.796875 -7.25,6.796875 H 10.33 c -4.0040623,0 -7.2500003,-3.043183 -7.2500003,-6.796875 z"
+       d="M 3.0799995,9.796875 C 3.0799995,6.043188 6.3259375,3 10.33,3 h 43.500005 c 4.00417,0 7.25,3.043188 7.25,6.796875 v 40.781249 c 0,3.753692 -3.24583,6.796875 -7.25,6.796875 H 10.33 c -4.0040625,0 -7.2500005,-3.043183 -7.2500005,-6.796875 z"
        id="path738"
        style="fill:url(#linearGradient22065);fill-opacity:1;stroke-width:3.625" />
     <rect
@@ -134,7 +134,7 @@
        style="fill:url(#a);stroke-width:0.673684;paint-order:markers stroke fill"
        id="rect9" />
     <rect
-       x="12.620966"
+       x="12.620964"
        y="23.732771"
        width="35.031578"
        height="23.578926"
