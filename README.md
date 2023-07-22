@@ -863,6 +863,34 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 22.07.2023.
+------------------------
+
+GTK Theme "Dexy-GTK" 
+--------------------
+
+Update: bullet-symbolic.svg
+
+GTK Theme "Dexy-Color-Dark-GTK"
+-----------------------------
+
+Update: bullet-symbolic.svg
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Update widget: translucentbackground.svg
+
+
+Plasma Theme "Dexy-Color-Plasma"
+--------------------------------
+
+Update icon: microphone.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
 
 
 
