@@ -4,7 +4,7 @@
    height="72"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="viewitem.svg"
    viewBox="0 0 78.75 67.5"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -17,8 +17,7 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style
      id="current-color-scheme"
-     type="text/css">.ColorScheme-Highlight { stop-color:#404768;    color:#404768; }
-</style>
+     type="text/css">.ColorScheme-Highlight { stop-color:#404768;    color:#404768; }&#10;</style>
   <sodipodi:namedview
      pagecolor="#cccccc"
      bordercolor="#000000"
@@ -28,14 +27,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0.78431373"
      inkscape:pageshadow="2"
-     inkscape:window-width="1876"
-     inkscape:window-height="1000"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
      id="namedview787"
      showgrid="false"
      inkscape:zoom="6.3971067"
-     inkscape:cx="25.089467"
+     inkscape:cx="25.011307"
      inkscape:cy="48.224926"
-     inkscape:window-x="44"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
@@ -50,12 +49,16 @@
      inkscape:showpageshadow="true"
      inkscape:lockguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#808080">
+     inkscape:deskcolor="#b2b2b2">
     <inkscape:grid
        type="xygrid"
        id="grid2617"
        originx="0"
-       originy="0" />
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata789">
