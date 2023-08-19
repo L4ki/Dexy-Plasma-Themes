@@ -1002,7 +1002,7 @@ Update widget: checkmarks.svg
 Icons
 -----
 
-Added new icons: apps 32
+Added new icons: apps 32, 48
 
 
 
