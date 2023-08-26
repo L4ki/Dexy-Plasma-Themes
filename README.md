@@ -1004,6 +1004,34 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 26.08.2023.
+------------------------
+
+GTK Theme "Dexy-GTK" 
+--------------------
+
+Update: gtkrc
+
+GTK Theme "Dexy-Color-Dark-GTK"
+-----------------------------
+
+Update: gtkrc
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Added icon: image.svg
+
+Plasma Theme "Dexy-Color-Plasma"
+--------------------------------
+
+Added icon: image.svg
+
+Icons
+-----
+
+Added new icons: apps 32
+
 
 
 
