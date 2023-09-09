@@ -1060,7 +1060,7 @@ Icons
 
 Added new icons: apps 32, 48
 
-Changelog: 02.09.2023.
+Changelog: 10.09.2023.
 ------------------------
 
 GTK Theme "Dexy-GTK" 
