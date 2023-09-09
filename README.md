@@ -1060,6 +1060,34 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 02.09.2023.
+------------------------
+
+GTK Theme "Dexy-GTK" 
+--------------------
+
+Update: treeview-separator-rtl.png
+
+GTK Theme "Dexy-Color-Dark-GTK"
+-----------------------------
+
+Update: treeview-separator-rtl.png
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Update icon: disk.svg
+
+Plasma Theme "Dexy-Color-Plasma"
+--------------------------------
+
+Update icon: veracrypt.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
