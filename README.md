@@ -1104,12 +1104,12 @@ Update: frame-notebook.png
 Plasma Theme "Dexy-Plasma"
 -------------------------
 
-Update action-overlays.svg
+Update widget: action-overlays.svg
 
 Plasma Theme "Dexy-Color-Plasma"
 --------------------------------
 
-Update action-overlays.svg
+Update widget: action-overlays.svg
 
 Icons
 -----
