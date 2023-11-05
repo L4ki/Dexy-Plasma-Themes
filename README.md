@@ -1290,6 +1290,34 @@ Window Decorations "Dexy-Aurorae" and "Dexy-Blur-Aurorae"
 
 Update: decoration.svg and Auroraerc
 
+Changelog: 05.11.2023.
+------------------------
+
+GTK Theme "Dexy-GTK" 
+--------------------
+
+Update: treeview-separator-ltr.png
+
+GTK Theme "Dexy-Color-Dark-GTK"
+-----------------------------
+
+Update: treeview-separator-ltr
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Update widget: tasks.svg
+
+Plasma Theme "Dexy-Color-Plasma"
+--------------------------------
+
+Update widget: tasks.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
