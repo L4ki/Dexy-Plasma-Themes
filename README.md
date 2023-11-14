@@ -1335,12 +1335,12 @@ Update: treeview-separator-rtl.png
 Plasma Theme "Dexy-Plasma"
 -------------------------
 
-Update widget: widget.svg
+Added icon: widget.svg
 
 Plasma Theme "Dexy-Color-Plasma"
 --------------------------------
 
-Update widget: transform.svg
+Added icon: transform.svg
 
 Icons
 -----
