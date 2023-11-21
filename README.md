@@ -1347,6 +1347,34 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 21.11.2023.
+------------------------
+
+GTK Theme "Dexy-GTK" 
+--------------------
+
+Update: progressbar-vert-trough.png
+
+GTK Theme "Dexy-Color-Dark-GTK"
+-----------------------------
+
+Update: progressbar-vert-trough.png
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Added icon: search.svg
+
+Plasma Theme "Dexy-Color-Plasma"
+--------------------------------
+
+Added icon: search.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
