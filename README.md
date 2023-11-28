@@ -1375,6 +1375,39 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 28.11.2023.
+------------------------
+
+Aurorae Themes
+---------------
+
+Update: metadata.desktop
+
+GTK Theme "Dexy-GTK" 
+--------------------
+
+Update: progressbar-horz-trough.png
+
+GTK Theme "Dexy-Color-Dark-GTK"
+-----------------------------
+
+Update: progressbar-horz-trough.png
+
+Plasma Theme "Dexy-Plasma"
+-------------------------
+
+Update widget: clock.svg
+
+Plasma Theme "Dexy-Color-Plasma"
+--------------------------------
+
+Added icon: widget.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
 
 
 
