@@ -1409,6 +1409,30 @@ Icons
 Added new icons: apps 32, 48
 
 
+Changelog: 05.12.2023.
+------------------------
+
+Aurorae Themes
+---------------
+
+Update: shade.svg
+
+GTK Themes "Dexy-GTK", "Dexy-Color-Dark-GTK"
+-------------------------------------------
+
+Update: styles
+
+Plasma Themes "Dexy-Plasma", "Dexy-Color-Plasma"
+------------------------------------------------
+
+Added icon: telegram.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+
 
 
 
