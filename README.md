@@ -1452,6 +1452,25 @@ Icons
 Added new icons: apps 32, 48
 
 
+Changelog: 19.12.2023.
+------------------------
+
+GTK Themes "Dexy-GTK", "Dexy-Color-Dark-GTK"
+-------------------------------------------
+
+Update: checkbox-checked-hover.png
+
+Plasma Themes "Dexy-Plasma", "Dexy-Color-Plasma"
+------------------------------------------------
+
+Update icon: corectrl.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+
 
 
 
