@@ -1498,6 +1498,29 @@ Aurorae Themes
 
 Update: decoration.svg
 
+Changelog: 02.01.2024.
+------------------------
+
+"Dexy-Color-Dark-GTK"
+---------------------
+
+Update: gtk-4.0
+
+Plasma Themes "Dexy-Plasma", "Dexy-Color-Plasma"
+------------------------------------------------
+
+Update widget: switch.svg
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Aurorae Themes
+---------------
+
+Update: restore.svg
+
 
 
 
