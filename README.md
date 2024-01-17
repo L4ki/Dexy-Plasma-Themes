@@ -1521,6 +1521,29 @@ Aurorae Themes
 
 Update: restore.svg
 
+Changelog: 17.01.2024.
+------------------------
+
+"Dexy-Color-Dark-GTK"
+---------------------
+
+Update: gtk-3.0
+
+Plasma Themes "Dexy-Plasma", "Dexy-Color-Plasma"
+------------------------------------------------
+
+Added icon: solaar.svg
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Aurorae Themes
+---------------
+
+Update: maximize.svg
+
 
 
 
