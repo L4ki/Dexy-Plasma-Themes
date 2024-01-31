@@ -67,10 +67,10 @@ ________________________________________________________________________________
 Changelog: 31.01.2024.
 ------------------------
 
-Plasma Themes "Dexy-Plasma", "Dexy-Color-Plasma"
+Plasma Themes: "Dexy-Plasma", "Dexy-Color-Plasma"
 ------------------------------------------------
 
-Added icont: sogoupinyin.svg
+Added icon: sogoupinyin.svg
 
 Icons
 -----
