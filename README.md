@@ -64,13 +64,13 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 24.01.2024.
+Changelog: 31.01.2024.
 ------------------------
 
 Plasma Themes "Dexy-Plasma", "Dexy-Color-Plasma"
 ------------------------------------------------
 
-Update widget: translucentbackground.svg
+Added icont: sogoupinyin.svg
 
 Icons
 -----
@@ -80,7 +80,7 @@ Added new icons: apps 48
 Aurorae Themes
 ---------------
 
-Update: keepbelow.svg
+Update: keepabove.svg
 
 
 
