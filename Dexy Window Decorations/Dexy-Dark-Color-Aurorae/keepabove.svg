@@ -6,7 +6,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="keepabove.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -85,7 +85,7 @@
   <sodipodi:namedview
      inkscape:document-rotation="0"
      pagecolor="#ffffff"
-     bordercolor="#000000"
+     bordercolor="#030303"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -93,12 +93,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="994"
      id="namedview24"
      showgrid="false"
-     inkscape:zoom="8.0000004"
-     inkscape:cx="3.3749998"
-     inkscape:cy="25.937499"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="-10.783378"
+     inkscape:cy="44.459339"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -109,12 +109,16 @@
      showguides="false"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#cccccc">
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid853"
        originx="-44"
-       originy="0" />
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <style
      type="text/css"
