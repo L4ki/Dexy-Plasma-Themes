@@ -64,13 +64,13 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 31.01.2024.
+Changelog: 09.02.2024.
 ------------------------
 
-Plasma Themes: "Dexy-Plasma", "Dexy-Color-Plasma"
-------------------------------------------------
+Plasma Themes: "Dexy-Color-Plasma"
+----------------------------------
 
-Added icon: sogoupinyin.svg
+Update widget: tasks.svg
 
 Icons
 -----
@@ -80,7 +80,7 @@ Added new icons: apps 48
 Aurorae Themes
 ---------------
 
-Update: keepabove.svg
+Update: minimize.svg
 
 
 
