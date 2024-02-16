@@ -82,7 +82,13 @@ Aurorae Themes
 
 Update: minimize.svg
 
+Changelog: 16.02.2024.
+------------------------
 
+Dexy-Color-Dark-GTK
+--------------------
+
+Update: main.rc
 
 
 
