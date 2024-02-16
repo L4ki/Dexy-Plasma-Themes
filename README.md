@@ -64,13 +64,13 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 09.02.2024.
+Changelog: 16.02.2024.
 ------------------------
 
 Plasma Theme: "Dexy-Color-Plasma"
 ---------------------------------
 
-Update widget: tasks.svg
+Update widget: background.svg
 
 Icons
 -----
@@ -80,10 +80,7 @@ Added new icons: apps 48
 Aurorae Themes
 ---------------
 
-Update: minimize.svg
-
-Changelog: 16.02.2024.
-------------------------
+Update: decoration.svg
 
 Dexy-Color-Dark-GTK
 --------------------
