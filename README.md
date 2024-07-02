@@ -70,7 +70,7 @@ Changelog: 02.07.2024.
 Dexy-Color-Dark-GTK
 --------------------
 
-Update: gtkrc
+Update: hacks.rc
 
 Dexy-Color-Aurorae
 ------------------
