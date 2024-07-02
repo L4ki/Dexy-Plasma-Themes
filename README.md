@@ -64,13 +64,40 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 26.06.2024.
+Changelog: 02.07.2024.
 ------------------------
 
 Dexy-Color-Dark-GTK
 --------------------
 
 Update: gtkrc
+
+Dexy-Color-Aurorae
+------------------
+
+Update: metadata.desktop
+
+Dexy-Color-SDDM
+---------------
+
+Update: metadata.desktop
+
+Dexy-Kvantum
+------------
+
+Update: Dexy-Kvantum.svg
+
+
+Dexy-Color-Icons
+----------------
+
+Sdded new icons: apps 48
+
+Dexy-Color-Plasma
+-----------------
+
+Update widgets: background.svg (dialogs), tooltip.svg
+
 
 
 
