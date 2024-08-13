@@ -64,13 +64,13 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 06.08.2024.
+Changelog: 13.08.2024.
 ------------------------
 
 Dexy-Color-Dark-GTK
 --------------------
 
-Update: main.rc
+Update: apps.rc
 
 Dexy-Color-Aurorae
 ------------------
@@ -85,7 +85,7 @@ Added new icons: apps 48
 Dexy-Color-Plasma
 -----------------
 
-Update widget: pager.svg
+Update widget: configuration-icons.svg
 
 
 
