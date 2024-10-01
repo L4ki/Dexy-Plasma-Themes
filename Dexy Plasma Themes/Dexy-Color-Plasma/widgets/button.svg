@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="174.96878"
-   height="32"
+   width="162.00021"
+   height="20"
    version="1"
    id="svg270"
    sodipodi:docname="button.svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -13,32 +13,38 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <style
      id="current-color-scheme"
-     type="text/css">.ColorScheme-Highlight { stop-color:#476382;    color:#476382; }&#10;.ColorScheme-ViewBackground { color:#3b5a87; }&#10;.ColorScheme-Text { color:#1c2231; }&#10;</style>
+     type="text/css">.ColorScheme-Highlight { stop-color:#476382;    color:#476382; }
+.ColorScheme-ViewBackground { color:#3b5a87; }
+.ColorScheme-Text { 
+    stop-color:#1c2231;
+    color:#1c2231;
+}
+</style>
   <sodipodi:namedview
      id="namedview272"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="2.8428029"
-     inkscape:cx="109.04731"
-     inkscape:cy="65.956033"
+     inkscape:zoom="5.6568539"
+     inkscape:cx="77.074644"
+     inkscape:cy="16.08668"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="1004"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg270"
      showguides="true"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:showpageshadow="true"
      inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
-       id="grid2327"
+       id="grid524"
        originx="0"
        originy="0"
        spacingy="1"
@@ -390,20 +396,20 @@
        inkscape:collect="always"
        xlink:href="#linearGradient8367"
        id="linearGradient8369"
-       x1="103.875"
-       y1="1.8749999"
-       x2="103.875"
-       y2="4.375"
+       x1="104"
+       y1="2.0000002"
+       x2="104"
+       y2="7"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8367"
        id="linearGradient8952"
        gradientUnits="userSpaceOnUse"
-       x1="120.125"
-       y1="1.8749999"
-       x2="120.125"
-       y2="4.375" />
+       x1="120"
+       y1="2.0000002"
+       x2="120"
+       y2="7" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8367"
@@ -413,7 +419,7 @@
        y1="2.0000002"
        x2="104"
        y2="7"
-       gradientTransform="translate(39.999999,-0.01174943)" />
+       gradientTransform="translate(39.999999)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8367"
@@ -423,7 +429,7 @@
        y1="2.0000002"
        x2="120"
        y2="7"
-       gradientTransform="translate(39.999999,-0.01174943)" />
+       gradientTransform="translate(39.999999)" />
   </defs>
   <g
      id="g7659"
@@ -436,7 +442,7 @@
   </g>
   <g
      id="normal-center"
-     transform="matrix(1.2,0,0,1.2,70.640488,0)">
+     transform="translate(64.283739)">
     <rect
        id="rect6969"
        style="opacity:1;fill:currentColor;fill-opacity:0.4"
@@ -448,7 +454,7 @@
   </g>
   <g
      id="g2135"
-     transform="matrix(1.2,0,0,1.2,-14.322918,-25.328382)"
+     transform="translate(-11.93576,-21.106982)"
      style="opacity:1;fill:#008080;fill-opacity:1">
     <path
        style="opacity:0.00100002;fill:#008080;fill-opacity:1"
@@ -460,9 +466,69 @@
      style="opacity:0.01;fill:#008080"
      width="2"
      height="2"
-     x="0"
-     y="-2"
+     x="25.553864"
+     y="9"
      ry="0" />
+  <rect
+     id="toolbutton-pressed-hint-left-margin"
+     style="opacity:0.01;fill:#ff00ff;fill-opacity:1;stroke-width:0.606061"
+     width="0.60606062"
+     height="4.848485"
+     x="-10.303061"
+     y="141"
+     transform="rotate(-90)" />
+  <rect
+     id="toolbutton-pressed-hint-top-margin"
+     style="opacity:0.01;fill:#ff00ff;fill-opacity:1;stroke-width:0.606061"
+     width="0.60606062"
+     height="4.848485"
+     x="151.69675"
+     y="-1" />
+  <rect
+     id="toolbutton-pressed-hint-right-margin"
+     style="opacity:0.01;fill:#ff00ff;fill-opacity:1;stroke-width:0.606061"
+     width="0.60606062"
+     height="4.848485"
+     x="-10.303061"
+     y="158.052"
+     transform="rotate(-90)" />
+  <rect
+     id="toolbutton-pressed-hint-bottom-margin"
+     style="opacity:0.01;fill:#ff00ff;fill-opacity:1;stroke-width:0.606061"
+     width="0.60606062"
+     height="4.848485"
+     x="151.69675"
+     y="16.052" />
+  <rect
+     id="toolbutton-hover-hint-left-margin"
+     style="opacity:0.01;fill:#3b5a87;fill-opacity:1;stroke-width:0.606061"
+     width="0.60606062"
+     height="4.848485"
+     x="-10.303073"
+     y="101"
+     transform="rotate(-90)" />
+  <rect
+     id="toolbutton-hover-hint-top-margin"
+     style="opacity:0.01;fill:#3b5a87;fill-opacity:1;stroke-width:0.606061"
+     width="0.60606062"
+     height="4.848485"
+     x="111.69707"
+     y="-1" />
+  <rect
+     id="toolbutton-hover-hint-right-margin"
+     style="opacity:0.01;fill:#3b5a87;fill-opacity:1;stroke-width:0.606061"
+     width="0.60606062"
+     height="4.848485"
+     x="-10.303073"
+     y="118.3"
+     transform="rotate(-90)" />
+  <rect
+     id="toolbutton-hover-hint-bottom-margin"
+     style="opacity:0.01;fill:#3b5a87;fill-opacity:1;stroke-width:0.606061"
+     width="0.60606062"
+     height="4.848485"
+     x="111.69707"
+     y="16.052" />
   <g
      id="g5858"
      transform="translate(65.260518,-3.3057418)" />
@@ -483,7 +549,7 @@
      transform="translate(52.234063,-3.1775222)" />
   <g
      id="normal-topleft"
-     transform="matrix(1.2,0,0,1.2,70.640488,0)">
+     transform="translate(64.283739)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -499,14 +565,14 @@
        class="ColorScheme-ViewBackground" />
     <path
        id="path1039-0-2"
-       style="fill:currentColor;fill-opacity:0.3;stroke-width:0.5;stop-color:#eff0f1"
+       style="fill:currentColor;fill-opacity:0.3;stroke-width:0.5"
        d="m -24.783728,2 c -3,0 -5,2 -5,5 l 0.555544,-1.11e-5 c 2.7e-5,-2.6666611 1.777783,-4.4444449 4.444445,-4.4444449 z"
        sodipodi:nodetypes="ccccc"
        class="ColorScheme-Text" />
   </g>
   <g
      id="normal-top"
-     transform="matrix(1.2,0,0,1.2,70.640488,0)">
+     transform="translate(64.283739)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="6"
@@ -531,7 +597,7 @@
   </g>
   <g
      id="normal-topright"
-     transform="matrix(1.2,0,0,1.2,70.640488,0)">
+     transform="translate(64.283739)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -547,14 +613,14 @@
        class="ColorScheme-ViewBackground" />
     <path
        id="path1039-0-3-1"
-       style="fill:currentColor;fill-opacity:0.3;stroke-width:0.5;stop-color:#eff0f1"
+       style="fill:currentColor;fill-opacity:0.3;stroke-width:0.5"
        d="m -13.78375,7 c 0,-3 -2,-5 -5,-5 l 1.1e-5,0.555544 c 2.666661,2.7e-5 4.444445,1.777783 4.444445,4.444445 z"
        sodipodi:nodetypes="ccccc"
        class="ColorScheme-Text" />
   </g>
   <g
      id="normal-left"
-     transform="matrix(1.2,0,0,1.2,70.640488,0)">
+     transform="translate(64.283739)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -579,7 +645,7 @@
   </g>
   <g
      id="normal-right"
-     transform="matrix(1.2,0,0,1.2,70.640488,0)">
+     transform="translate(64.283739)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -604,7 +670,7 @@
   </g>
   <g
      id="normal-bottomleft"
-     transform="matrix(1.2,0,0,1.2,70.640488,0)">
+     transform="translate(64.283739)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -620,14 +686,14 @@
        class="ColorScheme-ViewBackground" />
     <path
        id="path1039-0-3-7-0"
-       style="fill:currentColor;fill-opacity:0.3;stroke-width:0.5;stop-color:#eff0f1"
+       style="fill:currentColor;fill-opacity:0.3;stroke-width:0.5"
        d="m -29.784,12.999989 c 0,3 2,5 5,5 l -1.1e-5,-0.555544 C -27.450672,17.444418 -29.228456,15.666662 -29.228456,13 Z"
        sodipodi:nodetypes="ccccc"
        class="ColorScheme-Text" />
   </g>
   <g
      id="normal-bottomright"
-     transform="matrix(1.2,0,0,1.2,70.640488,0)">
+     transform="translate(64.283739)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -643,14 +709,14 @@
        class="ColorScheme-ViewBackground" />
     <path
        id="path1039-0-3-6-9"
-       style="fill:currentColor;fill-opacity:0.3;stroke-width:0.5;stop-color:#eff0f1"
+       style="fill:currentColor;fill-opacity:0.3;stroke-width:0.5"
        d="m -18.78375,18 c 3,0 5.000011,-2 5.000011,-5 l -0.555555,1.1e-5 c -2.7e-5,2.666661 -1.777783,4.444445 -4.444445,4.444445 z"
        sodipodi:nodetypes="ccccc"
        class="ColorScheme-Text" />
   </g>
   <g
      id="normal-bottom"
-     transform="matrix(1.2,0,0,1.2,70.640488,0)">
+     transform="translate(64.283739)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="6"
@@ -675,14 +741,14 @@
   </g>
   <g
      id="normal-center-5"
-     transform="matrix(1.2,0,0,1.2,103.14051,0)">
+     transform="translate(96.783739)">
     <g
        id="g1556">
       <g
          id="pressed-center">
         <rect
            id="rect6969-0"
-           style="opacity:1;fill:currentColor;fill-opacity:0.2"
+           style="opacity:1;fill:currentColor;fill-opacity:0.5"
            width="6"
            height="6"
            x="-24.783739"
@@ -693,7 +759,7 @@
   </g>
   <g
      id="pressed-topleft"
-     transform="matrix(1.2,0,0,1.2,65,0)">
+     transform="translate(65)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -702,7 +768,7 @@
        y="0"
        id="rect159-8" />
     <path
-       style="fill:currentColor;fill-opacity:0.2"
+       style="fill:currentColor;fill-opacity:0.5"
        d="M 7,2 C 4,2 2,4 2,7 v 0 0 0 h 5 z"
        id="path161-7"
        sodipodi:nodetypes="ccccccc"
@@ -716,7 +782,7 @@
   </g>
   <g
      id="pressed-top"
-     transform="matrix(1.2,0,0,1.2,65,0)">
+     transform="translate(65)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="6"
@@ -725,7 +791,7 @@
        y="0"
        id="rect109-2" />
     <path
-       style="fill:currentColor;fill-opacity:0.2"
+       style="fill:currentColor;fill-opacity:0.5"
        d="m 7,2 h 6 V 7 H 7 Z"
        id="path111-7"
        class="ColorScheme-Highlight" />
@@ -741,7 +807,7 @@
   </g>
   <g
      id="pressed-topright"
-     transform="matrix(1.2,0,0,1.2,65,0)">
+     transform="translate(65)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -750,7 +816,7 @@
        y="0"
        id="rect164-6" />
     <path
-       style="fill:currentColor;fill-opacity:0.2"
+       style="fill:currentColor;fill-opacity:0.5"
        d="m 13,2 c 3,0 5,2 5,5 v 0 0 h 2e-6 -5 z"
        id="path166-1"
        sodipodi:nodetypes="ccccccc"
@@ -764,7 +830,7 @@
   </g>
   <g
      id="pressed-left"
-     transform="matrix(1.2,0,0,1.2,65,0)">
+     transform="translate(65)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -773,7 +839,7 @@
        y="7"
        id="rect114-1" />
     <path
-       style="fill:currentColor;fill-opacity:0.2"
+       style="fill:currentColor;fill-opacity:0.5"
        d="M 2,6.9999995 H 7 V 12.999999 H 2 Z"
        id="path116-5"
        class="ColorScheme-Highlight" />
@@ -789,7 +855,7 @@
   </g>
   <g
      id="pressed-right"
-     transform="matrix(1.2,0,0,1.2,65,0)">
+     transform="translate(65)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -798,7 +864,7 @@
        y="7"
        id="rect120-9" />
     <path
-       style="fill:currentColor;fill-opacity:0.2"
+       style="fill:currentColor;fill-opacity:0.5"
        d="m 13,7.0000009 5,2.4e-6 V 13 l -5,-2e-6 z"
        id="path122-0"
        class="ColorScheme-Highlight" />
@@ -814,7 +880,7 @@
   </g>
   <g
      id="pressed-bottomleft"
-     transform="matrix(1.2,0,0,1.2,65,0)">
+     transform="translate(65)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -823,7 +889,7 @@
        y="13"
        id="rect169-7" />
     <path
-       style="fill:currentColor;fill-opacity:0.2"
+       style="fill:currentColor;fill-opacity:0.5"
        d="M 7,18 C 4,18 2,16 2,13 v 0 0 0 h 5 z"
        id="path171-7"
        sodipodi:nodetypes="ccccccc"
@@ -837,7 +903,7 @@
   </g>
   <g
      id="pressed-bottomright"
-     transform="matrix(1.2,0,0,1.2,65,0)">
+     transform="translate(65)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -846,7 +912,7 @@
        y="13"
        id="rect174-5" />
     <path
-       style="fill:currentColor;fill-opacity:0.2"
+       style="fill:currentColor;fill-opacity:0.5"
        d="m 13,18 c 3,0 5,-2 5,-5 h -4.999998 z"
        id="path176-9"
        sodipodi:nodetypes="cccc"
@@ -860,7 +926,7 @@
   </g>
   <g
      id="pressed-bottom"
-     transform="matrix(1.2,0,0,1.2,65,0)">
+     transform="translate(65)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="6"
@@ -869,10 +935,11 @@
        y="13"
        id="rect125-6" />
     <path
-       style="fill:currentColor;fill-opacity:0.2"
+       style="fill:currentColor;fill-opacity:0.5"
        d="m 7,18 h 6 V 13 H 7 Z"
        id="path127-7"
-       class="ColorScheme-Highlight" />
+       class="ColorScheme-Highlight"
+       sodipodi:nodetypes="ccccc" />
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
        style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.416842"
@@ -912,7 +979,7 @@
      transform="translate(69.048484,-2.4059434)" />
   <g
      id="normal-center-0"
-     transform="matrix(1.2,0,0,1.2,38.14049,0)">
+     transform="translate(31.783739)">
     <g
        id="hover-center">
       <rect
@@ -927,7 +994,7 @@
   </g>
   <g
      id="hover-topleft"
-     transform="matrix(1.2,0,0,1.2,78,0)">
+     transform="translate(65)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -950,7 +1017,7 @@
   </g>
   <g
      id="hover-top"
-     transform="matrix(1.2,0,0,1.2,78,0)">
+     transform="translate(65)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="6"
@@ -975,7 +1042,7 @@
   </g>
   <g
      id="hover-topright"
-     transform="matrix(1.2,0,0,1.2,78,0)">
+     transform="translate(65)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -998,7 +1065,7 @@
   </g>
   <g
      id="hover-left"
-     transform="matrix(1.2,0,0,1.2,78,0)">
+     transform="translate(65)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -1023,7 +1090,7 @@
   </g>
   <g
      id="hover-right"
-     transform="matrix(1.2,0,0,1.2,78,0)">
+     transform="translate(65)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -1048,7 +1115,7 @@
   </g>
   <g
      id="hover-bottomleft"
-     transform="matrix(1.2,0,0,1.2,78,0)">
+     transform="translate(65)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -1071,7 +1138,7 @@
   </g>
   <g
      id="hover-bottomright"
-     transform="matrix(1.2,0,0,1.2,78,0)">
+     transform="translate(65)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -1094,7 +1161,7 @@
   </g>
   <g
      id="hover-bottom"
-     transform="matrix(1.2,0,0,1.2,78,0)">
+     transform="translate(65)">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="6"
@@ -1119,7 +1186,7 @@
   </g>
   <g
      id="g5034"
-     transform="matrix(1.2,0,0,1.2,85.159909,-2.2473338)">
+     transform="translate(70.966589,-1.8727778)">
     <g
        id="hover-hint-left-margin">
       <rect
@@ -1134,7 +1201,7 @@
   </g>
   <g
      id="hover-hint-right-margin"
-     transform="matrix(1.2,0,0,1.2,70.57973,-2.1095975)">
+     transform="translate(58.816448,-1.7579975)">
     <rect
        id="focus-hint-right-margin-0-2"
        style="opacity:0.01;fill:#008080;fill-opacity:1"
@@ -1146,7 +1213,7 @@
   </g>
   <g
      id="hover-hint-top-margin"
-     transform="matrix(1.2,0,0,1.2,71.104747,6.2732718)">
+     transform="translate(59.253949,5.2277269)">
     <rect
        id="focus-hint-top-margin-2"
        style="opacity:0.01;fill:#008080;fill-opacity:1"
@@ -1158,7 +1225,7 @@
   </g>
   <g
      id="normal-center-5-0"
-     transform="matrix(1.6,0,0,1.6,152.85396,1.6e-7)">
+     transform="translate(133.78374)">
     <g
        id="g1556-4">
       <g
@@ -1178,8 +1245,7 @@
     </g>
   </g>
   <g
-     id="toolbutton-hover-topleft"
-     transform="matrix(1.6,0,0,1.6,-61.199997,1.6e-7)">
+     id="toolbutton-hover-topleft">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -1201,14 +1267,13 @@
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="toolbutton-hover-top"
-     transform="matrix(1.6,0,0,1.6,-61.199997,1.6e-7)">
+     id="toolbutton-hover-top">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="6"
        height="7"
        x="109"
-       y="-1e-07"
+       y="0"
        id="rect109-2-2" />
     <path
        style="fill:currentColor;fill-opacity:0.2"
@@ -1226,8 +1291,7 @@
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="toolbutton-hover-topright"
-     transform="matrix(1.6,0,0,1.6,-61.199997,1.6e-7)">
+     id="toolbutton-hover-topright">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -1249,8 +1313,7 @@
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="toolbutton-hover-left"
-     transform="matrix(1.6,0,0,1.6,-61.199997,1.6e-7)">
+     id="toolbutton-hover-left">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -1274,8 +1337,7 @@
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="toolbutton-hover-right"
-     transform="matrix(1.6,0,0,1.6,-61.199997,1.6e-7)">
+     id="toolbutton-hover-right">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -1299,8 +1361,7 @@
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="toolbutton-hover-bottomleft"
-     transform="matrix(1.6,0,0,1.6,-61.199997,1.6e-7)">
+     id="toolbutton-hover-bottomleft">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -1322,8 +1383,7 @@
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="toolbutton-hover-bottomright"
-     transform="matrix(1.6,0,0,1.6,-61.199997,1.6e-7)">
+     id="toolbutton-hover-bottomright">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
@@ -1345,8 +1405,7 @@
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="toolbutton-hover-bottom"
-     transform="matrix(1.6,0,0,1.6,-61.199997,1.6e-7)">
+     id="toolbutton-hover-bottom">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="6"
@@ -1371,7 +1430,7 @@
   </g>
   <g
      id="normal-center-5-0-3"
-     transform="matrix(1.5999432,0,0,1.6,193.82094,0.01879907)">
+     transform="translate(173.78374)">
     <g
        id="g1556-4-9">
       <g
@@ -1386,7 +1445,7 @@
                width="6"
                height="6"
                x="-24.783739"
-               y="6.9882507"
+               y="6.9999967"
                class="ColorScheme-Highlight" />
           </g>
         </g>
@@ -1394,41 +1453,39 @@
     </g>
   </g>
   <g
-     id="toolbutton-pressed-topleft"
-     transform="matrix(1.5999432,0,0,1.6,-84.223161,0.01879907)">
+     id="toolbutton-pressed-topleft">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
        height="7"
        x="142"
-       y="-0.011749425"
+       y="0"
        id="rect159-8-7-0" />
     <path
        style="fill:currentColor;fill-opacity:0.5"
-       d="m 149,1.9882506 c -3,0 -5,2 -5,5 v 0 0 0 h 5 z"
+       d="m 149,2 c -3,0 -5,2 -5,5 v 0 0 0 h 5 z"
        id="path161-7-2-9"
        sodipodi:nodetypes="ccccccc"
        class="ColorScheme-Highlight" />
     <path
        id="path1039-0-2-1-7-6"
        style="opacity:0.2;fill:url(#linearGradient14604);fill-opacity:1;stroke-width:0.5"
-       d="m 149.00001,1.9882506 c -3,0 -5,2 -5,5 l 0.55554,-1.11e-5 c 3e-5,-2.6666611 1.77779,-4.4444449 4.44445,-4.4444449 z"
+       d="m 149.00001,2 c -3,0 -5,2 -5,5 l 0.55554,-1.11e-5 C 144.55558,4.3333278 146.33334,2.555544 149,2.555544 Z"
        sodipodi:nodetypes="ccccc"
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="toolbutton-pressed-top"
-     transform="matrix(1.5999432,0,0,1.6,-84.223161,0.01879907)">
+     id="toolbutton-pressed-top">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="6"
        height="7"
        x="149"
-       y="-0.011749418"
+       y="0"
        id="rect109-2-2-8" />
     <path
        style="fill:currentColor;fill-opacity:0.501961"
-       d="m 149,1.9882506 h 6 v 5 h -6 z"
+       d="m 149,2 h 6 v 5 h -6 z"
        id="path111-7-6-5"
        class="ColorScheme-Highlight" />
     <rect
@@ -1437,46 +1494,44 @@
        id="rect985-75-9-2-1-6"
        width="0.55599999"
        height="6.000319"
-       x="-2.5442505"
+       x="-2.556"
        y="-155"
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="toolbutton-pressed-topright"
-     transform="matrix(1.5999432,0,0,1.6,-84.223161,0.01879907)">
+     id="toolbutton-pressed-topright">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
        height="7"
        x="155"
-       y="-0.011749425"
+       y="0"
        id="rect164-6-6-1" />
     <path
        style="fill:currentColor;fill-opacity:0.501961"
-       d="m 155,1.9882506 c 3,0 5,2 5,5 v 0 0 0 h -5 z"
+       d="m 155,2 c 3,0 5,2 5,5 v 0 0 0 h -5 z"
        id="path166-1-1-5"
        sodipodi:nodetypes="ccccccc"
        class="ColorScheme-Highlight" />
     <path
        id="path1039-0-3-1-0-5-9"
        style="opacity:0.2;fill:url(#linearGradient14606);fill-opacity:1;stroke-width:0.5"
-       d="m 159.99999,6.9882506 c 0,-3 -2,-5 -5,-5 l 1e-5,0.555544 c 2.66666,2.7e-5 4.44445,1.777783 4.44445,4.444445 z"
+       d="m 159.99999,7 c 0,-3 -2,-5 -5,-5 L 155,2.555544 c 2.66666,2.7e-5 4.44445,1.777783 4.44445,4.444445 z"
        sodipodi:nodetypes="ccccc"
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="toolbutton-pressed-left"
-     transform="matrix(1.5999432,0,0,1.6,-84.223161,0.01879907)">
+     id="toolbutton-pressed-left">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
        height="6"
-       x="142.01952"
-       y="6.9882507"
+       x="142"
+       y="7"
        id="rect114-1-4-4" />
     <path
        style="fill:currentColor;fill-opacity:0.501961"
-       d="m 144,6.9882506 h 5 V 12.98825 h -5 z"
+       d="m 144,6.9999995 h 5 v 5.9999995 h -5 z"
        id="path116-5-9-8"
        class="ColorScheme-Highlight" />
     <rect
@@ -1486,22 +1541,21 @@
        width="0.55599999"
        height="6.000319"
        x="143.99974"
-       y="-12.988569"
+       y="-13.000319"
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="toolbutton-pressed-right"
-     transform="matrix(1.5999432,0,0,1.6,-84.223161,0.01879907)">
+     id="toolbutton-pressed-right">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
        height="6"
-       x="154.95747"
-       y="6.9882507"
+       x="155"
+       y="7"
        id="rect120-9-1-3" />
     <path
        style="fill:currentColor;fill-opacity:0.501961"
-       d="m 155,6.9882506 5,2.4e-6 v 5.999997 l -5,-2e-6 z"
+       d="m 155,7.0000009 5,2.4e-6 V 13 l -5,-2e-6 z"
        id="path122-0-7-0"
        class="ColorScheme-Highlight" />
     <rect
@@ -1511,83 +1565,79 @@
        width="0.55599999"
        height="6.000319"
        x="159.444"
-       y="-12.988569"
+       y="-13.000319"
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="toolbutton-pressed-bottomleft"
-     transform="matrix(1.5999432,0,0,1.6,-84.223161,0.01879907)">
+     id="toolbutton-pressed-bottomleft">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
        height="7"
        x="142"
-       y="12.988251"
+       y="13"
        id="rect169-7-1-4" />
     <path
        style="fill:currentColor;fill-opacity:0.501961"
-       d="m 149,17.988251 c -3,0 -5,-2 -5,-5 v 0 0 0 h 5 z"
+       d="m 149,18 c -3,0 -5,-2 -5,-5 v 0 0 0 h 5 z"
        id="path171-7-5-4"
        sodipodi:nodetypes="ccccccc"
        class="ColorScheme-Highlight" />
     <path
        id="path1039-0-3-7-0-1-9-7"
        style="fill:#a7b2cd;fill-opacity:0.0509804;stroke-width:0.5"
-       d="m 143.99974,12.988251 c 0,3 2,5 5,5 l -1e-5,-0.555544 c -2.66666,-2.7e-5 -4.44445,-1.777783 -4.44445,-4.444445 z"
+       d="m 143.99974,12.999989 c 0,3 2,5 5,5 l -1e-5,-0.555544 C 146.33307,17.444418 144.55528,15.666662 144.55528,13 Z"
        sodipodi:nodetypes="ccccc"
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="toolbutton-pressed-bottomright"
-     transform="matrix(1.5999432,0,0,1.6,-84.223161,0.01879907)">
+     id="toolbutton-pressed-bottomright">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="7"
        height="7"
        x="155"
-       y="12.988251"
+       y="13"
        id="rect174-5-7-3" />
     <path
        style="fill:currentColor;fill-opacity:0.501961"
-       d="m 155,17.988251 c 3,0 5,-2 5,-5 h -5 z"
+       d="m 155,18 c 3,0 5,-2 5,-5 h -5 z"
        id="path176-9-6-1"
        sodipodi:nodetypes="cccc"
        class="ColorScheme-Highlight" />
     <path
        id="path1039-0-3-6-9-7-7-7"
        style="fill:#a7b2cd;fill-opacity:0.0509804;stroke-width:0.5"
-       d="m 154.99999,17.988251 c 3,0 5.00001,-2 5.00001,-5 l -0.55555,1.1e-5 c -3e-5,2.666661 -1.77779,4.444445 -4.44445,4.444445 z"
+       d="m 154.99999,18 c 3,0 5.00001,-2 5.00001,-5 l -0.55555,1.1e-5 c -3e-5,2.666661 -1.77779,4.444445 -4.44445,4.444445 z"
        sodipodi:nodetypes="ccccc"
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="toolbutton-pressed-bottom"
-     transform="matrix(1.5999432,0,0,1.6,-84.223161,0.01879907)">
+     id="toolbutton-pressed-bottom">
     <rect
        style="opacity:0.01;fill:#3b5a87;fill-opacity:0.4"
        width="6"
        height="7"
        x="149"
-       y="12.988251"
+       y="13"
        id="rect125-6-6-9" />
     <path
        style="fill:currentColor;fill-opacity:0.501961"
-       d="m 149,17.988251 h 6 v -5 h -6 z"
+       d="m 149,18 h 6 v -5 h -6 z"
        id="path127-7-5-6"
        class="ColorScheme-Highlight" />
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
-       style="fill:#a7b2cd;fill-opacity:0.0509804;stroke:none;stroke-width:0.421826"
+       style="fill:#a7b2cd;fill-opacity:0.0509804;stroke:none;stroke-width:0.416842"
        id="rect985-75-5-3-3-6-2"
-       width="0.56937498"
+       width="0.55599999"
        height="6"
-       x="-18.013374"
+       x="-18"
        y="-155"
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="hover-hint-bottom-margin"
-     transform="scale(1.2)">
+     id="hover-hint-bottom-margin">
     <rect
        id="focus-hint-bottom-margin-8-7"
        style="opacity:0.00840035;fill:#008080;fill-opacity:1;stroke-width:0.816497"
@@ -1595,97 +1645,5 @@
        height="0.2"
        x="8"
        y="18" />
-  </g>
-  <g
-     id="toolbutton-hover-hint-top-margin"
-     transform="translate(2.445845,19.734337)">
-    <rect
-       id="toolbutton-hover-hint-top-margin-6"
-       style="fill:#3b5a87;fill-opacity:1;stroke-width:1;opacity:0.01"
-       width="1"
-       height="8"
-       x="115.5539"
-       y="-19.734337" />
-  </g>
-  <g
-     id="toolbutton-hover-hint-bottom-margin"
-     transform="translate(-20.446484,47.533825)">
-    <rect
-       id="toolbutton-hover-hint-bottom-margin-7"
-       style="fill:#3b5a87;fill-opacity:1;stroke-width:1;opacity:0.01"
-       width="1"
-       height="8"
-       x="138.44649"
-       y="-23.533825" />
-  </g>
-  <g
-     id="toolbutton-hover-hint-left-margin"
-     transform="translate(-42.962097,34.473155)">
-    <rect
-       id="toolbutton-hover-hint-left-margin-5"
-       style="fill:#3b5a87;fill-opacity:1;stroke-width:0.999996;opacity:0.01"
-       width="1"
-       height="8"
-       x="17.473154"
-       y="144.7621"
-       transform="rotate(-90)" />
-  </g>
-  <g
-     id="toolbutton-hover-hint-right-margin"
-     transform="translate(-5.5877228,34.442835)">
-    <rect
-       id="toolbutton-hover-hint-right-margin-3"
-       style="fill:#3b5a87;fill-opacity:1;stroke-width:0.999998;opacity:0.01"
-       width="1"
-       height="8"
-       x="17.442835"
-       y="131.58772"
-       transform="rotate(-90)" />
-  </g>
-  <g
-     id="toolbutton-pressed-hint-top-margin"
-     transform="matrix(1.003808,0,0,1.0037724,-1.5128795,23.086767)">
-    <rect
-       id="toolbutton-pressed-hint-top-margin-5"
-       style="fill:#008080;fill-opacity:1;stroke-width:0.99622;opacity:0.01"
-       width="0.99620646"
-       height="7.969934"
-       x="159.90775"
-       y="-23" />
-  </g>
-  <g
-     id="toolbutton-pressed-hint-left-margin"
-     transform="matrix(1.003808,0,0,1.0037724,-2.5369832,35.113117)">
-    <rect
-       id="toolbutton-pressed-hint-left-margin-6"
-       style="fill:#008080;fill-opacity:1;stroke-width:0.99622;opacity:0.01"
-       width="0.99624175"
-       height="7.9696517"
-       x="18.045042"
-       y="145"
-       transform="rotate(-90)" />
-  </g>
-  <g
-     id="toolbutton-pressed-hint-right-margin"
-     transform="matrix(1.003808,0,0,1.0037724,16.429691,35.113116)">
-    <rect
-       id="toolbutton-pressed-hint-right-margin-2"
-       style="fill:#008080;fill-opacity:1;stroke-width:0.99622;opacity:0.01"
-       width="0.99624175"
-       height="7.9696517"
-       x="18.045042"
-       y="149.99911"
-       transform="rotate(-90)" />
-  </g>
-  <g
-     id="toolbutton-pressed-hint-bottom-margin"
-     transform="matrix(1.003808,0,0,1.0037724,-1.5166741,47.086765)">
-    <rect
-       id="toolbutton-pressed-hint-bottom-margin-9"
-       style="fill:#008080;fill-opacity:1;stroke-width:0.99622;opacity:0.01"
-       width="0.99620646"
-       height="7.969934"
-       x="159.90775"
-       y="-23" />
   </g>
 </svg>
