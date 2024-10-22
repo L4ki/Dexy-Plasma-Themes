@@ -64,13 +64,13 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 15.10.2024.
+Changelog: 22.10.2024.
 ------------------------
 
 Dexy-Color-Dark-GTK
 --------------------
 
-Update: apps.rc
+Update: hacks-dark.rc
 
 Dexy-Color-Aurorae
 ------------------
@@ -85,7 +85,7 @@ Added new icons: apps 48
 Dexy-Color-Plasma
 -----------------
 
-Update widget: action-overlays.svg
+Update widget: actionbutton.svg
 
 
 
