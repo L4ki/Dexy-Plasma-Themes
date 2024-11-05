@@ -2,7 +2,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    width="214"
    height="214"
    sodipodi:docname="clock.svg"
@@ -26,7 +26,7 @@
 .ColorScheme-Highlight { color:#5e81ac; }
 </style>
   <sodipodi:namedview
-     inkscape:window-height="1004"
+     inkscape:window-height="994"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -37,13 +37,13 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="87.504462"
-     inkscape:cy="110.48543"
+     inkscape:zoom="1"
+     inkscape:cx="153.5"
+     inkscape:cy="119"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
-     showgrid="true"
+     showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1"
@@ -59,22 +59,23 @@
      inkscape:showpageshadow="true"
      inkscape:lockguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        empspacing="5"
        enabled="true"
-       visible="true"
+       visible="false"
        id="grid5592"
        type="xygrid"
        snapvisiblegridlinesonly="true"
        color="#0000ff"
-       opacity="0.03921569"
+       opacity="0.0392157"
        empcolor="#0000ff"
        empopacity="0.07843137"
        originx="0"
        originy="0"
        spacingx="1"
-       spacingy="1" />
+       spacingy="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
