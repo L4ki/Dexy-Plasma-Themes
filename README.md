@@ -64,13 +64,13 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 12.11.2024.
+Changelog: 19.11.2024.
 ------------------------
 
 Dexy-Color-Dark-GTK
 --------------------
 
-Update: styles
+Update: gtk-4.0
 
 Dexy-Color-Aurorae
 ------------------
@@ -85,7 +85,7 @@ Added new icons: apps 48
 Dexy-Color-Plasma
 -----------------
 
-Update widget: line.svg
+Update widget: frame.svg
 
 
 
