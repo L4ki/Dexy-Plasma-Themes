@@ -2,7 +2,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    width="64"
    height="64"
    sodipodi:docname="glowbar.svg"
@@ -20,7 +20,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="1008"
+     inkscape:window-height="998"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -29,11 +29,11 @@
      objecttolerance="10.0"
      borderopacity="1"
      bordercolor="#000000"
-     pagecolor="#cccccc"
+     pagecolor="#ffffff"
      id="base"
      inkscape:zoom="7.9999999"
      inkscape:cx="29"
-     inkscape:cy="38.5625"
+     inkscape:cy="38.625"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -49,10 +49,21 @@
      inkscape:showpageshadow="true"
      inkscape:lockguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#808080">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
-       type="xygrid"
-       id="grid314" />
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.9375"
+       spacingy="0.9375"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
