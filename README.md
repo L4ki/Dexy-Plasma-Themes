@@ -64,13 +64,13 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 24.12.2024.
+Changelog: 31.12.2024.
 ------------------------
 
 Dexy-Color-Dark-GTK
 --------------------
 
-Update: hacks.rc
+Update: gtk-3.0
 
 Dexy-Color-Aurorae
 ------------------
@@ -85,7 +85,7 @@ Update icons: apps 48
 Dexy-Color-Plasma
 -----------------
 
-Update widget: picker.svg
+Update widget: glowbar.svg
 
 
 
