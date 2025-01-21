@@ -64,13 +64,13 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 14.01.2025.
+Changelog: 21.01.2025.
 ------------------------
 
 Dexy-Color-Dark-GTK
 --------------------
 
-Update: gtk-4.0
+Update: gtkrc
 
 Dexy-Color-Aurorae
 ------------------
@@ -80,7 +80,7 @@ Update: metadata.desktop
 Dexy-Color-Icons
 ----------------
 
-Added new icons: actions 22
+Added new icons: apps 48
 
 Dexy-Color-Plasma
 -----------------
