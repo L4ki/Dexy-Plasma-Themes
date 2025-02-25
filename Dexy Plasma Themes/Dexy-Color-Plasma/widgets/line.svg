@@ -6,7 +6,7 @@
    height="1"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4 (unknown)"
    version="1.0"
    sodipodi:docname="line.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -29,9 +29,9 @@
      inkscape:deskcolor="#cccccc"
      inkscape:zoom="128"
      inkscape:cx="1.3476562"
-     inkscape:cy="0.4140625"
+     inkscape:cy="0.41015625"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -57,11 +57,8 @@
   </sodipodi:namedview>
   <style
      id="current-color-scheme"
-     type="text/css">
-.ColorScheme-Highlight { 
-    color:#2e75bc;
-}
-.ColorScheme-Text { color:#31363b; }
+     type="text/css">.ColorScheme-Highlight { color:#2e75bc; }
+.ColorScheme-Text {   }
 .ColorScheme-Background { color:#eff0f1; }
 .ColorScheme-ViewText { color:#31363b; }
 .ColorScheme-ViewBackground { color:#fcfcfc; }
@@ -79,16 +76,9 @@
        height="1"
        x="2"
        y="0"
-       class="ColorScheme-Text"
-       style="opacity:0.01;fill:#31363b;fill-opacity:0.01"
+       class="ColorScheme-Text  ColorScheme-Highlight"
+       style="fill-opacity:0.3;fill:currentColor;opacity:1;"
        id="rect2" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3787"
-       d="M 3,0.8 H 2 V 0.7 h 1 z"
-       style="stroke-width:0.0816503;fill-opacity:1;fill:currentColor;"
-       inkscape:label="#path2992"
-       class="ColorScheme-Highlight " />
   </g>
   <g
      id="vertical-line">
@@ -97,15 +87,8 @@
        height="1"
        x="0"
        y="0"
-       class="ColorScheme-Text"
-       style="fill:#31363b;fill-opacity:0.01;opacity:0.01"
+       class="ColorScheme-Text  ColorScheme-Highlight"
+       style="fill-opacity:0.3;fill:currentColor;opacity:1;"
        id="rect1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3787-8"
-       d="M 0.2,1 V 0 h 0.1 v 1 z"
-       style="stroke-width:0.0816503;fill-opacity:1;fill:currentColor;"
-       inkscape:label="#path2992"
-       class="ColorScheme-Highlight" />
   </g>
 </svg>

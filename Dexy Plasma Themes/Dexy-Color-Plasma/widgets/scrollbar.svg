@@ -28,11 +28,11 @@
      inkscape:deskcolor="#808080"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="16.000001"
-     inkscape:cx="27.874998"
-     inkscape:cy="26.718748"
+     inkscape:zoom="11.313709"
+     inkscape:cx="29.168153"
+     inkscape:cy="29.521706"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -800,5 +800,15 @@
        width="3"
        x="-60"
        y="25" />
+    <rect
+       id="private-hint-show-separator"
+       height="2"
+       rx="2.077126"
+       style="fill-rule:nonzero;fill-opacity:1;fill:currentColor;opacity:0.1;"
+       width="2"
+       x="0"
+       y="-6.2534852"
+       ry="2.077126"
+       class="ColorScheme-Highlight" />
   </g>
 </svg>
