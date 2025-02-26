@@ -1,0 +1,34 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Dexy-Color-Light-Global-6",
+        "Description": "Dexy-Color-Light Global Theme by l4k1",
+        "Id": "Dexy-Color-Light-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Dexy-Color-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2265286",
+        "kns://window-decorations.knsrc/api.kde-look.org/2265292",
+        "kns://colorschemes.knsrc/api.kde-look.org/1919150",
+        "kns://icons.knsrc/api.kde-look.org/1964003",
+        "kns://icons.knsrc/api.kde-look.org/2192424",
+        "kns://icons.knsrc/api.kde-look.org/2234789",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1964011",
+        "kns://wallpaper.knsrc/api.kde-look.org/2261494",
+        "kns://wallpaper.knsrc/api.kde-look.org/2261492",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2261501"
+    ]
+}

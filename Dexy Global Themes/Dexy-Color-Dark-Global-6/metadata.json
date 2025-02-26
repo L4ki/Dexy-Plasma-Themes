@@ -1,0 +1,35 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Dexy-Color-Dark-Global-6",
+        "Description": "Dexy-Color-Dark Global Theme by l4k1",
+        "Id": "Dexy-Color-Dark-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Dexy-Color-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2265298",
+        "kns://window-decorations.knsrc/api.kde-look.org/2265305",
+        "kns://colorschemes.knsrc/api.kde-look.org/1919151",
+        "kns://icons.knsrc/api.kde-look.org/1964004",
+        "kns://icons.knsrc/api.kde-look.org/2234790",
+        "kns://icons.knsrc/api.kde-look.org/2192428",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1964011",
+        "kns://wallpaper.knsrc/api.kde-look.org/1963955",
+        "kns://wallpaper.knsrc/api.kde-look.org/1963966",
+        "kns://wallpaper.knsrc/api.kde-look.org/2154043",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2265276"
+    ]
+}
