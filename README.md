@@ -34,10 +34,15 @@ Dexy-Plasma
 Screenshots:
 -------------
 
+![logo-1](https://github.com/user-attachments/assets/065ccf6b-9fae-421f-bbed-d55ab1a824a6)
 
-![1](https://user-images.githubusercontent.com/45247573/195152945-b005a7f7-d460-4205-a101-009010a13cea.png)
+![logo-1-3](https://github.com/user-attachments/assets/7145f674-0cc5-46ba-9283-bb212704aca2)
 
-![2](https://user-images.githubusercontent.com/45247573/195152562-9cecc1d9-5a2a-478e-9a8d-962784e32f9b.png)
+![logo-2](https://github.com/user-attachments/assets/ca300869-183c-4c04-931d-021108cfb059)
+
+![logo-4](https://github.com/user-attachments/assets/e406a575-ae2d-480a-ac52-495225cb1df3)
+
+![logo-5](https://github.com/user-attachments/assets/7ddaf889-6849-4100-8664-49b930d5efe9)
 
 ![3](https://user-images.githubusercontent.com/45247573/195152653-59a47253-3cb7-45da-9370-a6db56353748.png)
 
