@@ -69,18 +69,18 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 16.04.2025.
+Changelog: 23.04.2025.
 ------------------------
 
 Dexy-Color-Dark-GTK
 --------------------
 
-Update: hacks.rc
+Update: gtk-3.0
 
 Dexy-Color-Icons
 ----------------
 
-Added new icons: apps 24
+Added new icons: apps 32
 
 Dexy-Color-Plasma
 -----------------
