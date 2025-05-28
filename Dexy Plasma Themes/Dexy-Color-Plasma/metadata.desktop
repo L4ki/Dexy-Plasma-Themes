@@ -4,7 +4,7 @@ Comment=Dexy Color Plasma Theme
 X-KDE-PluginInfo-Author=l4k1
 X-KDE-PluginInfo-Email=lak1987@gmail.com
 X-KDE-PluginInfo-Name=Dexy-Color-Plasma
-X-KDE-PluginInfo-Version=10.6
+X-KDE-PluginInfo-Version=10.7
 X-KDE-PluginInfo-Website=
 X-KDE-PluginInfo-Category=Plasma Theme
 X-KDE-PluginInfo-License=GPLv3
@@ -14,11 +14,11 @@ X-Plasma-API=5.0
 [AdaptiveTransparency]
 enabled=true
 
-[ContrastEffect]
-enabled=false
-contrast=0.2
-intensity=0.4
-saturation=1.7
-
 [BlurBehindEffect]
 enabled=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.4
+intensity=0.6
+saturation=8
