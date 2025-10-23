@@ -69,18 +69,18 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 16.10.2025.
+Changelog: 23.10.2025.
 ------------------------
 
 Dexy-Color-Dark-GTK
 --------------------
 
-Update: gtk-4.0
+Update: gtkrc
 
 Dexy-Color-Icons
 ----------------
 
-Added new icons: apps 32, 48
+Added new icons: apps 48
 
 Dexy-Color-Plasma
 -----------------
