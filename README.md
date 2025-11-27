@@ -69,7 +69,7 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 20.11.2025.
+Changelog: 27.11.2025.
 ------------------------
 
 Dexy-Color-Dark-GTK
@@ -80,7 +80,7 @@ Update: hacks.rc
 Dexy-Color-Icons
 ----------------
 
-Update icons: apps 32
+Update icons: status 22
 
 Dexy-Color-Plasma
 -----------------
