@@ -69,18 +69,18 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 04.12.2025.
+Changelog: 11.12.2025.
 ------------------------
 
 Dexy-Color-Dark-GTK
 --------------------
 
-Update: styles
+Update: gtk-4.0
 
 Dexy-Color-Icons
 ----------------
 
-Update icons: status 24
+Update icons: status 32
 
 Dexy-Color-Plasma
 -----------------
